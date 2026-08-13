@@ -1,0 +1,3002 @@
+[
+  {
+    "chapter": 1,
+    "front": "How does the IASP define pain?",
+    "back": "An unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage.",
+    "id": 1
+  },
+  {
+    "chapter": 1,
+    "front": "What is nociception, and how does it differ from pain?",
+    "back": "Nociception is the neural encoding and transmission of noxious stimuli. It occurs under anesthesia. Pain is the conscious experience that may or may not follow.",
+    "id": 2
+  },
+  {
+    "chapter": 1,
+    "front": "Give an example of nociception without pain.",
+    "back": "Surgical incision under general anesthesia, the soldier who does not notice a wound during a firefight, and the athlete finishing on a fractured metatarsal.",
+    "id": 3
+  },
+  {
+    "chapter": 1,
+    "front": "Give an example of pain without ongoing nociception.",
+    "back": "Phantom limb pain in an amputated limb, central post-stroke pain from a thalamic lesion, and persistent pain after an injury has healed.",
+    "id": 4
+  },
+  {
+    "chapter": 1,
+    "front": "Define nociceptive pain.",
+    "back": "Pain arising from actual or threatened damage to non-neural tissue, due to activation of nociceptors. It is the pain of fracture, burn, incision, and inflamed joint.",
+    "id": 5
+  },
+  {
+    "chapter": 1,
+    "front": "Define neuropathic pain.",
+    "back": "Pain caused by a lesion or disease of the somatosensory nervous system. It requires a demonstrable nerve lesion, not merely pain in a nerve distribution.",
+    "id": 6
+  },
+  {
+    "chapter": 1,
+    "front": "Define nociplastic pain.",
+    "back": "Pain from altered nociception without evidence of tissue damage activating nociceptors and without a somatosensory lesion. Adopted by IASP in 2017.",
+    "id": 7
+  },
+  {
+    "chapter": 1,
+    "front": "Which descriptors suggest neuropathic pain?",
+    "back": "Burning, shooting, electric, and lancinating, in a neuroanatomically plausible distribution, accompanied by negative or positive sensory signs in that territory.",
+    "id": 8
+  },
+  {
+    "chapter": 1,
+    "front": "What distinguishes chronic primary from chronic secondary pain in ICD-11?",
+    "back": "Chronic primary pain is a diagnosis in its own right, such as fibromyalgia. Chronic secondary pain is a symptom of an identified underlying condition.",
+    "id": 9
+  },
+  {
+    "chapter": 1,
+    "front": "Why is the three-month chronic pain threshold described as arbitrary?",
+    "back": "Nothing distinctive happens on day ninety. What actually distinguishes chronic pain is loss of protective function and nervous system changes maintaining it.",
+    "id": 10
+  },
+  {
+    "chapter": 1,
+    "front": "What are the three components of pain catastrophizing?",
+    "back": "Rumination, magnification, and helplessness. It predicts chronicity, postoperative opioid use, and surgical outcome more strongly than most imaging findings.",
+    "id": 11
+  },
+  {
+    "chapter": 1,
+    "front": "Describe the fear-avoidance cycle.",
+    "back": "Pain is read as a signal of damage, movement is feared and avoided, deconditioning follows, and movement becomes more painful, confirming the original fear.",
+    "id": 12
+  },
+  {
+    "chapter": 1,
+    "front": "What is the prevalence of chronic pain in adults?",
+    "back": "Roughly one in five, with most estimates between 20 and 30 percent. High-impact chronic pain affects about 7 to 8 percent and drives most disability.",
+    "id": 13
+  },
+  {
+    "chapter": 1,
+    "front": "How common is chronic postsurgical pain?",
+    "back": "It follows 10 to 50 percent of common operations and is severe in perhaps 2 to 10 percent, highest after thoracotomy, amputation, and mastectomy.",
+    "id": 14
+  },
+  {
+    "chapter": 1,
+    "front": "Name four modifiable risk factors for chronic postsurgical pain.",
+    "back": "Severe preoperative pain, severe acute postoperative pain, preoperative catastrophizing and anxiety, and intraoperative nerve injury.",
+    "id": 15
+  },
+  {
+    "chapter": 1,
+    "front": "Why is pain intensity a poor primary outcome in chronic pain?",
+    "back": "It changes least with effective treatment. Function, sleep, participation, and mood are more sensitive and are what patients actually want restored.",
+    "id": 16
+  },
+  {
+    "chapter": 2,
+    "front": "Where is the cell body of the primary afferent neuron?",
+    "back": "In the dorsal root ganglion, or the trigeminal ganglion for the face. It sits outside the blood-brain barrier, making it accessible to large molecules.",
+    "id": 17
+  },
+  {
+    "chapter": 2,
+    "front": "Compare A-delta and C fiber conduction velocities.",
+    "back": "A-delta fibers are thinly myelinated at 5 to 30 metres per second. C fibers are unmyelinated at 0.5 to 2 metres per second.",
+    "id": 18
+  },
+  {
+    "chapter": 2,
+    "front": "What produces the double pain response?",
+    "back": "Fast A-delta conduction gives immediate sharp first pain, while slow C fiber conduction gives diffuse burning second pain about a second later.",
+    "id": 19
+  },
+  {
+    "chapter": 2,
+    "front": "What proportion of a cutaneous nerve is C fibers?",
+    "back": "Typically 70 percent or more, which is why a block sparing C fibers relieves very little pain.",
+    "id": 20
+  },
+  {
+    "chapter": 2,
+    "front": "What does TRPV1 respond to?",
+    "back": "Noxious heat above roughly 43 degrees Celsius, protons at low pH, and capsaicin. This explains why inflamed and ischemic acidic tissue hurts.",
+    "id": 21
+  },
+  {
+    "chapter": 2,
+    "front": "What phenotype results from loss-of-function NaV1.7 mutations?",
+    "back": "Congenital insensitivity to pain, with normal cognition and touch, commonly causing unnoticed fractures, tongue and lip mutilation, and corneal damage.",
+    "id": 22
+  },
+  {
+    "chapter": 2,
+    "front": "What are silent nociceptors?",
+    "back": "C fibers, perhaps 20 to 30 percent in skin, that are mechanically insensitive normally and become responsive after inflammation, amplifying hyperalgesia.",
+    "id": 23
+  },
+  {
+    "chapter": 2,
+    "front": "What is neurogenic inflammation?",
+    "back": "Peripheral release of substance P and calcitonin gene-related peptide from activated nociceptor terminals, producing vasodilation, extravasation, and mast cell degranulation.",
+    "id": 24
+  },
+  {
+    "chapter": 2,
+    "front": "What is found in Rexed lamina II?",
+    "back": "The substantia gelatinosa, receiving dense C fiber input and composed almost entirely of interneurons. It is the anatomical home of the gate control mechanism.",
+    "id": 25
+  },
+  {
+    "chapter": 2,
+    "front": "What are wide dynamic range neurons and why do they matter?",
+    "back": "Lamina V neurons receiving convergent cutaneous and visceral input, firing across innocuous to noxious ranges. They are the anatomical basis of referred pain.",
+    "id": 26
+  },
+  {
+    "chapter": 2,
+    "front": "Where do second-order nociceptive neurons decussate?",
+    "back": "In the anterior white commissure, typically within one to two segments of entry, then ascending in the contralateral anterolateral quadrant.",
+    "id": 27
+  },
+  {
+    "chapter": 2,
+    "front": "What sensory pattern does spinal cord hemisection produce?",
+    "back": "Contralateral loss of pain and temperature from spinothalamic crossing, with ipsilateral loss of vibration and proprioception from the dorsal columns.",
+    "id": 28
+  },
+  {
+    "chapter": 2,
+    "front": "Which nucleus is the facial equivalent of the dorsal horn?",
+    "back": "The caudal subnucleus of the spinal trigeminal nucleus, which is anatomically and functionally continuous with the spinal dorsal horn.",
+    "id": 29
+  },
+  {
+    "chapter": 2,
+    "front": "What does the anterior cingulate cortex encode in pain?",
+    "back": "The affective dimension, particularly unpleasantness rather than intensity, demonstrated by hypnosis studies dissociating the two.",
+    "id": 30
+  },
+  {
+    "chapter": 2,
+    "front": "What are ON and OFF cells?",
+    "back": "Rostral ventromedial medulla populations. ON cells facilitate nociceptive transmission, OFF cells inhibit it, and opioids activate OFF cells while silencing ON cells.",
+    "id": 31
+  },
+  {
+    "chapter": 2,
+    "front": "Which referral patterns follow segmental innervation?",
+    "back": "Diaphragm to shoulder tip via C3 to C5, gallbladder to right scapula, ureter to loin and groin, and appendix periumbilically via T10.",
+    "id": 32
+  },
+  {
+    "chapter": 3,
+    "front": "Name the four stages from tissue injury to pain.",
+    "back": "Transduction, transmission, modulation, and perception. Their mechanistic independence is the rationale for multimodal analgesia.",
+    "id": 33
+  },
+  {
+    "chapter": 3,
+    "front": "How does prostaglandin E2 sensitize a nociceptor?",
+    "back": "It binds EP receptors, activating protein kinase A, which phosphorylates TRPV1 and voltage-gated sodium channels, lowering the activation threshold.",
+    "id": 34
+  },
+  {
+    "chapter": 3,
+    "front": "Distinguish primary from secondary hyperalgesia.",
+    "back": "Primary hyperalgesia is within injured tissue and peripherally mediated. Secondary hyperalgesia is in surrounding uninjured tissue and is spinal in origin.",
+    "id": 35
+  },
+  {
+    "chapter": 3,
+    "front": "Define central sensitization.",
+    "back": "An increase in excitability and synaptic efficacy of central nociceptive neurons, initiated by sustained C fiber input and maintained by NMDA-dependent changes.",
+    "id": 36
+  },
+  {
+    "chapter": 3,
+    "front": "What are the four functional consequences of central sensitization?",
+    "back": "Reduced threshold giving allodynia, increased gain giving hyperalgesia, expanded receptive fields giving spread, and responses outlasting the stimulus.",
+    "id": 37
+  },
+  {
+    "chapter": 3,
+    "front": "How does wind-up differ from central sensitization?",
+    "back": "Wind-up develops over seconds during a stimulus train and decays within minutes. Central sensitization outlasts the stimulus by hours to days.",
+    "id": 38
+  },
+  {
+    "chapter": 3,
+    "front": "How does KCC2 downregulation cause disinhibition?",
+    "back": "It disrupts the chloride gradient in second-order neurons, so GABA, which normally hyperpolarizes, can become depolarizing. Inhibition is inverted, not merely reduced.",
+    "id": 39
+  },
+  {
+    "chapter": 3,
+    "front": "What role do glia play in chronic pain?",
+    "back": "Microglia and astrocytes release interleukin-1 beta, interleukin-6, tumor necrosis factor alpha, and brain-derived neurotrophic factor, sustaining sensitization long after the initiating event.",
+    "id": 40
+  },
+  {
+    "chapter": 3,
+    "front": "Why do gabapentinoids take days to work?",
+    "back": "They bind the alpha-2-delta calcium channel subunit, which is upregulated in the dorsal root ganglion after nerve injury through a trafficking process taking time.",
+    "id": 41
+  },
+  {
+    "chapter": 3,
+    "front": "What is conditioned pain modulation and why does it matter?",
+    "back": "A remote painful stimulus reduces perceived intensity elsewhere. Impaired conditioned pain modulation before surgery predicts chronic postsurgical pain.",
+    "id": 42
+  },
+  {
+    "chapter": 3,
+    "front": "What is descending facilitation?",
+    "back": "Active pro-nociceptive output from the rostral ventromedial medulla that increases spinal transmission, sustaining chronic pain rather than passively receiving it.",
+    "id": 43
+  },
+  {
+    "chapter": 3,
+    "front": "How is placebo analgesia known to involve endogenous opioids?",
+    "back": "It is substantially reversed by naloxone. Nocebo, by contrast, involves cholecystokinin and is not naloxone-reversible.",
+    "id": 44
+  },
+  {
+    "chapter": 3,
+    "front": "How is preventive analgesia defined?",
+    "back": "An analgesic effect outlasting the expected duration of the drug by more than five half-lives, which reframed the older and less successful preemptive concept.",
+    "id": 45
+  },
+  {
+    "chapter": 3,
+    "front": "Which interventions have the best preventive analgesic evidence?",
+    "back": "Continuous regional and neuraxial blockade maintained postoperatively, subanesthetic ketamine, and intravenous lidocaine infusion in abdominal surgery.",
+    "id": 46
+  },
+  {
+    "chapter": 3,
+    "front": "What is the heritability of chronic pain conditions?",
+    "back": "Roughly 30 to 50 percent in twin studies, with similar figures for experimental pain sensitivity. Substantial but not deterministic.",
+    "id": 47
+  },
+  {
+    "chapter": 3,
+    "front": "Which pharmacogenomic variation is clinically actionable in analgesia?",
+    "back": "CYP2D6 status. Poor metabolizers get little from codeine or tramadol; ultrarapid metabolizers risk toxicity, which led to codeine restrictions in children.",
+    "id": 48
+  },
+  {
+    "chapter": 4,
+    "front": "What five jobs must a complete pain assessment achieve?",
+    "back": "Assign a mechanistic descriptor, exclude serious causes, measure functional impact, identify psychosocial predictors, and establish the patient's understanding and goals.",
+    "id": 49
+  },
+  {
+    "chapter": 4,
+    "front": "Which single historical question best indicates mechanism?",
+    "back": "Character. Burning and shooting suggest neuropathic; aching and throbbing suggest nociceptive somatic; cramping suggests visceral; widespread with fatigue suggests nociplastic.",
+    "id": 50
+  },
+  {
+    "chapter": 4,
+    "front": "What must a treatment history record for each previous drug?",
+    "back": "Dose reached, duration, effect, and reason for stopping. Without these, an inadequate trial is misrecorded as a drug failure.",
+    "id": 51
+  },
+  {
+    "chapter": 4,
+    "front": "What is the earliest reliable feature of cauda equina syndrome?",
+    "back": "Loss of the sensation of bladder filling with difficulty initiating micturition. Established painless retention means the optimal window may already have closed.",
+    "id": 52
+  },
+  {
+    "chapter": 4,
+    "front": "How is dynamic mechanical allodynia tested?",
+    "back": "Stroke the skin with a cotton wisp or brush. Static allodynia is tested with gentle fingertip pressure, and thermal allodynia with a cool metal object.",
+    "id": 53
+  },
+  {
+    "chapter": 4,
+    "front": "How is temporal summation tested at the bedside?",
+    "back": "Apply repeated identical pinpricks at about one per second and ask whether the sensation builds. A marked build-up indicates central sensitization.",
+    "id": 54
+  },
+  {
+    "chapter": 4,
+    "front": "What is the minimal clinically important difference in pain score?",
+    "back": "Roughly 2 points on an 11-point scale, or a 30 percent reduction, with 50 percent regarded as substantial benefit.",
+    "id": 55
+  },
+  {
+    "chapter": 4,
+    "front": "Why is between-patient comparison of pain scores meaningless?",
+    "back": "Ratings are ordinal within a patient and depend on that person's own internal reference for worst pain imaginable.",
+    "id": 56
+  },
+  {
+    "chapter": 4,
+    "front": "Which tool assesses pain in advanced dementia?",
+    "back": "The Pain Assessment in Advanced Dementia scale, scoring breathing, negative vocalization, facial expression, body language, and consolability from 0 to 10.",
+    "id": 57
+  },
+  {
+    "chapter": 4,
+    "front": "Which Brief Pain Inventory score is most useful in chronic pain?",
+    "back": "The interference score, averaging interference with activity, mood, walking, work, relations, sleep, and enjoyment of life.",
+    "id": 58
+  },
+  {
+    "chapter": 4,
+    "front": "Name the six IMMPACT core outcome domains.",
+    "back": "Pain intensity, physical functioning, emotional functioning, global improvement and satisfaction, symptoms and adverse events, and participant disposition.",
+    "id": 59
+  },
+  {
+    "chapter": 4,
+    "front": "What does the STarT Back tool do?",
+    "back": "Nine items sort low back pain patients into low, medium, and high risk of persistent disability, and matching treatment to risk improved outcomes in trials.",
+    "id": 60
+  },
+  {
+    "chapter": 4,
+    "front": "Which direction is stronger in the sleep and pain relationship?",
+    "back": "Poor sleep predicts next-day pain more strongly than pain predicts that night's sleep, which makes sleep an unusually high-value treatment target.",
+    "id": 61
+  },
+  {
+    "chapter": 4,
+    "front": "Name two neuropathic pain screening questionnaires.",
+    "back": "Douleur Neuropathique en 4 questions and painDETECT. Both have sensitivity and specificity around 80 percent and are screening rather than diagnostic tools.",
+    "id": 62
+  },
+  {
+    "chapter": 4,
+    "front": "Which red flags suggest spinal infection?",
+    "back": "Fever, intravenous drug use, immunosuppression, recent bacteremia or spinal instrumentation, and severe unremitting pain with local tenderness.",
+    "id": 63
+  },
+  {
+    "chapter": 4,
+    "front": "What did the fifth vital sign campaign inadvertently produce?",
+    "back": "A subjective number became a mandated target to normalize, making treatment of the number rather than the patient defensible practice.",
+    "id": 64
+  },
+  {
+    "chapter": 5,
+    "front": "What proportion of asymptomatic 80-year-olds have disc degeneration?",
+    "back": "About 96 percent, rising from roughly 37 percent at age 20, which is why the finding carries little diagnostic information.",
+    "id": 65
+  },
+  {
+    "chapter": 5,
+    "front": "What do trials show about early imaging in non-specific low back pain?",
+    "back": "It does not improve outcomes, increases cost and surgery rates, and produces slightly worse patient-reported outcomes than not imaging.",
+    "id": 66
+  },
+  {
+    "chapter": 5,
+    "front": "When is immediate magnetic resonance imaging indicated in back pain?",
+    "back": "Suspected cauda equina syndrome, suspected malignancy with neurological deficit, suspected spinal infection, and significant or progressive neurological deficit.",
+    "id": 67
+  },
+  {
+    "chapter": 5,
+    "front": "Which imaging finding is associated with discogenic pain?",
+    "back": "Modic type 1 endplate change, representing vascularized granulation tissue and marrow edema, which is considerably more common in symptomatic individuals.",
+    "id": 68
+  },
+  {
+    "chapter": 5,
+    "front": "What do nerve conduction studies and electromyography test?",
+    "back": "Large myelinated fibers almost exclusively. A normal study excludes large-fiber pathology but does not exclude small-fiber neuropathy.",
+    "id": 69
+  },
+  {
+    "chapter": 5,
+    "front": "How long after axonal injury do fibrillation potentials appear?",
+    "back": "Roughly two to three weeks, which is why studies performed too early can be falsely reassuring.",
+    "id": 70
+  },
+  {
+    "chapter": 5,
+    "front": "Why are sensory nerve action potentials normal in radiculopathy?",
+    "back": "The lesion is proximal to the dorsal root ganglion, so the peripheral sensory axon and its cell body remain in continuity even when the patient is numb.",
+    "id": 71
+  },
+  {
+    "chapter": 5,
+    "front": "How is small-fiber neuropathy investigated?",
+    "back": "Skin biopsy with intraepidermal nerve fiber density, quantitative sensory testing, and autonomic testing including quantitative sudomotor axon reflex testing.",
+    "id": 72
+  },
+  {
+    "chapter": 5,
+    "front": "What false-positive rate do single uncontrolled lumbar blocks carry?",
+    "back": "Between 25 and 40 percent, meaning up to four in ten patients proceeding to a destructive procedure did not have the diagnosis.",
+    "id": 73
+  },
+  {
+    "chapter": 5,
+    "front": "How is a diagnostic block made more specific?",
+    "back": "Comparative blocks with agents of differing duration, placebo-controlled blocks, or raising the relief threshold from 50 to 80 percent.",
+    "id": 74
+  },
+  {
+    "chapter": 5,
+    "front": "What volume is used for a diagnostic medial branch block?",
+    "back": "About 0.3 to 0.5 millilitres per nerve. Larger volumes spread to structures that were never intended to be tested.",
+    "id": 75
+  },
+  {
+    "chapter": 5,
+    "front": "How is adequacy of a sympathetic block documented?",
+    "back": "By a skin temperature rise of at least 1.5 degrees Celsius in the corresponding limb, or by Horner syndrome for stellate ganglion blocks.",
+    "id": 76
+  },
+  {
+    "chapter": 5,
+    "front": "What is the principal value of quantitative sensory testing?",
+    "back": "Sensory phenotyping rather than diagnosis, sorting patients into profiles such as irritable nociceptor or deafferentation that may predict drug response.",
+    "id": 77
+  },
+  {
+    "chapter": 5,
+    "front": "What limits the usefulness of discography?",
+    "back": "High false-positive rates in psychologically distressed patients, and evidence that injection accelerates degeneration in the injected disc over ten years.",
+    "id": 78
+  },
+  {
+    "chapter": 5,
+    "front": "Which baseline tests precede tricyclic antidepressant therapy?",
+    "back": "An electrocardiogram in patients over 40 or with cardiac history, because of QT prolongation and sodium channel effects in overdose.",
+    "id": 79
+  },
+  {
+    "chapter": 5,
+    "front": "What is the governing principle for ordering any test in pain medicine?",
+    "back": "A test is worth doing when its result will change management. Ordering it to generate a diagnosis produces incidental findings and iatrogenic disability.",
+    "id": 80
+  },
+  {
+    "chapter": 6,
+    "front": "Why is acetaminophen not a nonsteroidal anti-inflammatory drug?",
+    "back": "It has minimal peripheral anti-inflammatory activity at clinical doses. Its analgesic and antipyretic effects are principally central.",
+    "id": 81
+  },
+  {
+    "chapter": 6,
+    "front": "Which metabolite causes acetaminophen hepatotoxicity?",
+    "back": "N-acetyl-p-benzoquinone imine, formed via CYP2E1 and detoxified by glutathione. N-acetylcysteine works by replenishing glutathione.",
+    "id": 82
+  },
+  {
+    "chapter": 6,
+    "front": "When should the acetaminophen maximum be reduced below 4 grams?",
+    "back": "Weight under 50 kilograms, chronic alcohol use, malnutrition or fasting, and established hepatic impairment. Reduce to 2 to 3 grams daily.",
+    "id": 83
+  },
+  {
+    "chapter": 6,
+    "front": "What is the commonest source of acetaminophen overdose?",
+    "back": "Unrecognized duplication across combination opioid, cold and influenza, and sleep preparations, which is why reconciliation should total all sources.",
+    "id": 84
+  },
+  {
+    "chapter": 6,
+    "front": "Which functions does cyclooxygenase-1 mediate?",
+    "back": "Gastric mucosal protection, renal afferent arteriolar dilation, and platelet thromboxane A2 driving aggregation.",
+    "id": 85
+  },
+  {
+    "chapter": 6,
+    "front": "Why does selective cyclooxygenase-2 inhibition not eliminate renal risk?",
+    "back": "Cyclooxygenase-2 is constitutively expressed in the kidney, in vascular endothelium producing prostacyclin, and in parts of the central nervous system.",
+    "id": 86
+  },
+  {
+    "chapter": 6,
+    "front": "What is the annual rate of serious upper gastrointestinal events on chronic NSAIDs?",
+    "back": "Roughly 1 to 2 percent per year, concentrated in patients over 65 and those with prior ulcer, anticoagulation, corticosteroids, or SSRIs.",
+    "id": 87
+  },
+  {
+    "chapter": 6,
+    "front": "Describe the triple whammy causing acute kidney injury.",
+    "back": "An angiotensin-converting enzyme inhibitor dilates the efferent arteriole, a diuretic reduces volume, and an NSAID removes afferent dilation.",
+    "id": 88
+  },
+  {
+    "chapter": 6,
+    "front": "Why must ibuprofen not be taken shortly before low-dose aspirin?",
+    "back": "It occupies the platelet cyclooxygenase-1 binding site and blocks aspirin's irreversible acetylation, abolishing cardioprotection.",
+    "id": 89
+  },
+  {
+    "chapter": 6,
+    "front": "Why does aspirin suppress platelets for seven to ten days?",
+    "back": "It acetylates cyclooxygenase irreversibly, and platelets have no nucleus to synthesize replacement enzyme, so suppression lasts the platelet lifespan.",
+    "id": 90
+  },
+  {
+    "chapter": 6,
+    "front": "What systemic exposure do topical NSAIDs produce?",
+    "back": "Roughly 5 to 10 percent of oral dosing, with efficacy approaching oral therapy for superficial joints such as knee and hand.",
+    "id": 91
+  },
+  {
+    "chapter": 6,
+    "front": "Which NSAID sits at the lower end of cardiovascular risk?",
+    "back": "Naproxen. Diclofenac sits at the higher end with a profile resembling the withdrawn coxibs.",
+    "id": 92
+  },
+  {
+    "chapter": 6,
+    "front": "Which NSAID metabolite causes methemoglobinemia?",
+    "back": "Ortho-toluidine from prilocaine, above roughly 600 milligrams, producing cyanosis unresponsive to oxygen and treated with methylene blue.",
+    "id": 93
+  },
+  {
+    "chapter": 6,
+    "front": "What is aspirin-exacerbated respiratory disease?",
+    "back": "A triad of asthma, nasal polyposis, and NSAID sensitivity, affecting perhaps 5 to 10 percent of adult asthmatics.",
+    "id": 94
+  },
+  {
+    "chapter": 6,
+    "front": "How much does adding an NSAID reduce postoperative morphine consumption?",
+    "back": "Roughly 30 to 50 percent over 24 hours, compared with about 20 percent for acetaminophen, with corresponding reductions in nausea and sedation.",
+    "id": 95
+  },
+  {
+    "chapter": 6,
+    "front": "Why is ketorolac use restricted despite its potency?",
+    "back": "Its cyclooxygenase-1 preferential profile gives relatively high gastrointestinal and bleeding risk, with a labeled maximum duration of five days.",
+    "id": 96
+  },
+  {
+    "chapter": 7,
+    "front": "What does mu receptor activation mediate?",
+    "back": "Most clinical analgesia, plus respiratory depression, euphoria, sedation, constipation, pruritus, urinary retention, miosis, dependence, and tolerance.",
+    "id": 97
+  },
+  {
+    "chapter": 7,
+    "front": "How do opioid receptors reduce transmitter release?",
+    "back": "They are inhibitory G protein-coupled receptors that close voltage-gated calcium channels presynaptically and open potassium channels postsynaptically.",
+    "id": 98
+  },
+  {
+    "chapter": 7,
+    "front": "Which morphine metabolites matter clinically?",
+    "back": "Morphine-6-glucuronide is a potent analgesic; morphine-3-glucuronide causes myoclonus and hyperalgesia. Both are renally cleared and accumulate.",
+    "id": 99
+  },
+  {
+    "chapter": 7,
+    "front": "Why is morphine a poor choice in renal impairment?",
+    "back": "Its renally cleared metabolites accumulate below a glomerular filtration rate of about 30 millilitres per minute, causing sedation, confusion, and myoclonus.",
+    "id": 100
+  },
+  {
+    "chapter": 7,
+    "front": "Why is oxycodone's oral potency higher than morphine's?",
+    "back": "Oral bioavailability is 60 to 87 percent against morphine's 20 to 40 percent, giving an oral potency ratio of about 1.5 to 1.",
+    "id": 101
+  },
+  {
+    "chapter": 7,
+    "front": "What are methadone's three dangerous properties?",
+    "back": "A half-life of 8 to 60 hours exceeding its analgesic duration, a conversion ratio rising with prior opioid dose, and hERG-mediated QT prolongation.",
+    "id": 102
+  },
+  {
+    "chapter": 7,
+    "front": "When do methadone deaths characteristically occur?",
+    "back": "In the first two weeks of therapy or after a dose increase, because steady state takes five to seven days while analgesia lasts only 6 to 12 hours.",
+    "id": 103
+  },
+  {
+    "chapter": 7,
+    "front": "Why does buprenorphine precipitate withdrawal?",
+    "back": "Its high receptor affinity displaces full agonists from mu receptors. Low-dose initiation protocols or waiting for mild withdrawal avoid this.",
+    "id": 104
+  },
+  {
+    "chapter": 7,
+    "front": "Should buprenorphine be stopped before surgery?",
+    "back": "No. Current consensus is to continue it and titrate full agonist on top, since stopping destabilizes recovery without analgesic advantage.",
+    "id": 105
+  },
+  {
+    "chapter": 7,
+    "front": "Why is transdermal fentanyl unsuitable for acute pain?",
+    "back": "A subcutaneous depot forms, with steady state after 12 to 24 hours and a terminal half-life of 13 to 24 hours after removal.",
+    "id": 106
+  },
+  {
+    "chapter": 7,
+    "front": "What increases transdermal fentanyl absorption dangerously?",
+    "back": "Heat, including fever, hot baths, and heating pads. Fatal overdoses have resulted.",
+    "id": 107
+  },
+  {
+    "chapter": 7,
+    "front": "Why is meperidine obsolete for routine use?",
+    "back": "Normeperidine accumulates with a half-life of 15 to 30 hours, causes tremor, myoclonus, and seizures, and is not reversed by naloxone.",
+    "id": 108
+  },
+  {
+    "chapter": 7,
+    "front": "What distinguishes tapentadol from pure mu agonists?",
+    "back": "It combines mu agonism with norepinephrine reuptake inhibition, giving neuropathic efficacy, fewer gastrointestinal effects, and no CYP2D6 dependence.",
+    "id": 109
+  },
+  {
+    "chapter": 7,
+    "front": "State the common oral morphine equivalents.",
+    "back": "Oral morphine 30 mg equals parenteral morphine 10 mg, oral oxycodone 20 mg, oral hydromorphone 6 to 7.5 mg, and oral codeine 200 mg.",
+    "id": 110
+  },
+  {
+    "chapter": 7,
+    "front": "What reduction applies after an equianalgesic calculation?",
+    "back": "25 to 50 percent for incomplete cross-tolerance, and 50 percent or more when converting to methadone or in elderly or frail patients.",
+    "id": 111
+  },
+  {
+    "chapter": 7,
+    "front": "What are standard adult patient-controlled analgesia settings for morphine?",
+    "back": "A 1 milligram bolus with a five to ten minute lockout. Background infusions are avoided in opioid-naive patients.",
+    "id": 112
+  },
+  {
+    "chapter": 8,
+    "front": "To which opioid effect does tolerance essentially never develop?",
+    "back": "Constipation. A stimulant laxative should be co-prescribed from the outset, with bulk-forming agents avoided because the problem is motility.",
+    "id": 113
+  },
+  {
+    "chapter": 8,
+    "front": "Which bedside sign precedes opioid respiratory depression most reliably?",
+    "back": "Sedation. Respiratory rate is a late sign, and saturation can remain normal during carbon dioxide retention on supplemental oxygen.",
+    "id": 114
+  },
+  {
+    "chapter": 8,
+    "front": "How long does naloxone last, and why does that matter?",
+    "back": "30 to 90 minutes, shorter than most opioids it reverses, so re-sedation after apparent recovery is a documented cause of death.",
+    "id": 115
+  },
+  {
+    "chapter": 8,
+    "front": "How should naloxone be given to a chronic opioid user?",
+    "back": "Titrated in increments of roughly 40 to 100 micrograms, since full-dose bolus precipitates severe withdrawal, agitation, and occasionally pulmonary edema.",
+    "id": 116
+  },
+  {
+    "chapter": 8,
+    "front": "What is opioid-induced androgen deficiency?",
+    "back": "Suppression of hypothalamic gonadotropin-releasing hormone reducing testosterone and estradiol, causing fatigue, low libido, mood change, and reduced bone density.",
+    "id": 117
+  },
+  {
+    "chapter": 8,
+    "front": "How does tolerance differ across opioid effects?",
+    "back": "Rapid for nausea, sedation, and euphoria; slower and incomplete for analgesia and respiratory depression; essentially absent for constipation and miosis.",
+    "id": 118
+  },
+  {
+    "chapter": 8,
+    "front": "Distinguish physical dependence from addiction.",
+    "back": "Physical dependence is an expected neuroadaptation producing withdrawal on cessation. Addiction is compulsive use despite harm with impaired control.",
+    "id": 119
+  },
+  {
+    "chapter": 8,
+    "front": "Describe the opioid withdrawal syndrome.",
+    "back": "Anxiety, restlessness, yawning, lacrimation, rhinorrhea, sweating, piloerection, mydriasis, myalgia, cramping, nausea, vomiting, diarrhea, tachycardia, and hypertension.",
+    "id": 120
+  },
+  {
+    "chapter": 8,
+    "front": "How does withdrawal timing differ between short-acting opioids and methadone?",
+    "back": "Short-acting withdrawal begins at 6 to 12 hours peaking at 36 to 72. Methadone withdrawal begins at 24 to 48 hours and is more prolonged.",
+    "id": 121
+  },
+  {
+    "chapter": 8,
+    "front": "How is opioid-induced hyperalgesia distinguished from tolerance?",
+    "back": "Pain spreads beyond the original distribution, changes quality, worsens with dose escalation, and improves with dose reduction.",
+    "id": 122
+  },
+  {
+    "chapter": 8,
+    "front": "Which mechanisms drive opioid-induced hyperalgesia?",
+    "back": "NMDA receptor activation, microglial cytokine and BDNF release, increased spinal dynorphin, and enhanced descending facilitation from ON cells.",
+    "id": 123
+  },
+  {
+    "chapter": 8,
+    "front": "How is opioid-induced hyperalgesia managed?",
+    "back": "Gradual dose reduction, rotation particularly to methadone or buprenorphine, added ketamine, optimized non-opioid analgesia, and non-pharmacological treatment.",
+    "id": 124
+  },
+  {
+    "chapter": 8,
+    "front": "What does the evidence show about rapid involuntary opioid tapering?",
+    "back": "It is associated with increased overdose, mental health crisis, and transition to illicit supply, which is why current guidance cautions against it.",
+    "id": 125
+  },
+  {
+    "chapter": 8,
+    "front": "What is a reasonable tapering rate in long-term opioid users?",
+    "back": "Reduce 5 to 10 percent of the original dose every one to four weeks, slowing at lower doses and pausing if the patient destabilizes.",
+    "id": 126
+  },
+  {
+    "chapter": 8,
+    "front": "Why is neuraxial opioid pruritus often unresponsive to antihistamines?",
+    "back": "It is not usually histamine-mediated. Low-dose naloxone infusion or nalbuphine frequently succeed instead.",
+    "id": 127
+  },
+  {
+    "chapter": 8,
+    "front": "Above what daily dose does overdose risk rise steeply?",
+    "back": "Above roughly 50 morphine milligram equivalents and further above 90, though these are population associations rather than individual predictions.",
+    "id": 128
+  },
+  {
+    "chapter": 9,
+    "front": "Which agents are first-line for neuropathic pain?",
+    "back": "Tricyclic antidepressants, the serotonin-norepinephrine reuptake inhibitors duloxetine and venlafaxine, and the gabapentinoids gabapentin and pregabalin.",
+    "id": 129
+  },
+  {
+    "chapter": 9,
+    "front": "State the numbers needed to treat for 50 percent relief in neuropathic pain.",
+    "back": "Roughly 3.6 for tricyclics, 6.4 for duloxetine and venlafaxine, and 7.7 for both gabapentin and pregabalin.",
+    "id": 130
+  },
+  {
+    "chapter": 9,
+    "front": "How does tricyclic analgesia differ from antidepressant effect?",
+    "back": "It occurs at lower doses, within one to two weeks rather than four to six, and in patients who are not depressed.",
+    "id": 131
+  },
+  {
+    "chapter": 9,
+    "front": "Why are selective serotonin reuptake inhibitors poor analgesics?",
+    "back": "The norepinephrine component does most of the analgesic work through descending noradrenergic inhibition at dorsal horn alpha-2 receptors.",
+    "id": 132
+  },
+  {
+    "chapter": 9,
+    "front": "What is amitriptyline's analgesic dosing?",
+    "back": "Start 10 to 25 milligrams at night, titrate every one to two weeks to a usual effective range of 25 to 75 milligrams.",
+    "id": 133
+  },
+  {
+    "chapter": 9,
+    "front": "Which tricyclics are preferred in older patients?",
+    "back": "Nortriptyline and desipramine, secondary amines with less anticholinergic and sedative burden, though with a smaller evidence base.",
+    "id": 134
+  },
+  {
+    "chapter": 9,
+    "front": "How is duloxetine dosed for neuropathic pain?",
+    "back": "30 milligrams daily for one week, then 60 milligrams daily. Higher doses add little benefit and more side effects.",
+    "id": 135
+  },
+  {
+    "chapter": 9,
+    "front": "Why is venlafaxine ineffective for pain at low doses?",
+    "back": "It is predominantly serotonergic below about 150 milligrams daily and acquires meaningful norepinephrine reuptake inhibition only above that.",
+    "id": 136
+  },
+  {
+    "chapter": 9,
+    "front": "Why does gabapentin need three-times-daily dosing?",
+    "back": "Absorption uses a saturable transporter, so bioavailability falls from around 60 percent at 900 milligrams daily to about 33 percent at 3600.",
+    "id": 137
+  },
+  {
+    "chapter": 9,
+    "front": "How do gabapentin and pregabalin kinetics differ?",
+    "back": "Pregabalin has non-saturable absorption, bioavailability above 90 percent, and linear kinetics, allowing twice-daily dosing and predictable titration.",
+    "id": 138
+  },
+  {
+    "chapter": 9,
+    "front": "What are the gabapentinoid dose ranges?",
+    "back": "Gabapentin 900 to 3600 milligrams daily in three doses; pregabalin 150 to 600 milligrams daily in two. Both require renal dose reduction.",
+    "id": 139
+  },
+  {
+    "chapter": 9,
+    "front": "Which gabapentinoid safety issues prompted regulatory warnings?",
+    "back": "Potentiation of opioid-induced respiratory depression with deaths in respiratory compromise, and recognized misuse potential particularly with pregabalin.",
+    "id": 140
+  },
+  {
+    "chapter": 9,
+    "front": "What is first-line for trigeminal neuralgia?",
+    "back": "Carbamazepine, with historical response rates above 70 percent. Oxcarbazepine is an alternative with fewer interactions but more hyponatremia.",
+    "id": 141
+  },
+  {
+    "chapter": 9,
+    "front": "What monitoring does carbamazepine require?",
+    "back": "Full blood count for aplastic anemia and agranulocytosis, liver function, and sodium for hyponatremia from an inappropriate antidiuretic hormone effect.",
+    "id": 142
+  },
+  {
+    "chapter": 9,
+    "front": "Who should be tested for HLA-B*15:02 before carbamazepine?",
+    "back": "Patients of Han Chinese, Thai, and some other Southeast Asian ancestries, because of a strong association with Stevens-Johnson syndrome.",
+    "id": 143
+  },
+  {
+    "chapter": 9,
+    "front": "How is the lidocaine 5 percent plaster used?",
+    "back": "Up to three plasters for 12 hours in each 24-hour period. Systemic absorption is minimal and it is often first-line in older patients.",
+    "id": 144
+  },
+  {
+    "chapter": 9,
+    "front": "How does the capsaicin 8 percent patch work?",
+    "back": "It defunctionalizes TRPV1-expressing nociceptor terminals, producing reversible epidermal nerve fiber retraction lasting up to three months from one application.",
+    "id": 145
+  },
+  {
+    "chapter": 9,
+    "front": "Which drug combination has the best neuropathic pain evidence?",
+    "back": "A gabapentinoid with a tricyclic or with duloxetine, combining presynaptic calcium channel action with descending monoaminergic modulation.",
+    "id": 146
+  },
+  {
+    "chapter": 10,
+    "front": "How do amide and ester local anesthetics differ?",
+    "back": "Amides are metabolized hepatically and rarely cause true allergy. Esters are hydrolyzed by plasma cholinesterase to para-aminobenzoic acid, accounting for most allergy.",
+    "id": 147
+  },
+  {
+    "chapter": 10,
+    "front": "Which memory aid separates amides from esters?",
+    "back": "Amides contain the letter i twice before the suffix, as in lidocaine and bupivacaine. Esters contain it once, as in procaine.",
+    "id": 148
+  },
+  {
+    "chapter": 10,
+    "front": "Which local anesthetic property determines potency?",
+    "back": "Lipid solubility, which governs penetration of the nerve membrane. Bupivacaine is far more lipid-soluble and more potent than lidocaine.",
+    "id": 149
+  },
+  {
+    "chapter": 10,
+    "front": "Which property determines speed of onset?",
+    "back": "The pKa, governing the proportion in the uncharged base form at tissue pH. Lidocaine at 7.9 acts faster than bupivacaine at 8.1.",
+    "id": 150
+  },
+  {
+    "chapter": 10,
+    "front": "Which property determines duration?",
+    "back": "Protein binding. Bupivacaine is roughly 95 percent bound and long-acting; lidocaine is roughly 65 percent bound and intermediate.",
+    "id": 151
+  },
+  {
+    "chapter": 10,
+    "front": "Why does local anesthetic work poorly in infected tissue?",
+    "back": "Acidic tissue shifts more drug into the charged cationic form, which cannot cross the nerve membrane, slowing and weakening onset.",
+    "id": 152
+  },
+  {
+    "chapter": 10,
+    "front": "What is the clinical sequence of differential blockade?",
+    "back": "Sympathetic first, then temperature and pain, then touch and pressure, then motor and proprioception, with recovery in reverse order.",
+    "id": 153
+  },
+  {
+    "chapter": 10,
+    "front": "Why is bupivacaine cardiotoxicity so dangerous?",
+    "back": "It binds cardiac sodium channels avidly and dissociates slowly, giving a narrow cardiovascular collapse to CNS toxicity ratio and refractory arrhythmia.",
+    "id": 154
+  },
+  {
+    "chapter": 10,
+    "front": "State maximum doses for lidocaine and bupivacaine.",
+    "back": "Lidocaine roughly 4.5 mg/kg plain and 7 mg/kg with epinephrine. Bupivacaine roughly 2 to 2.5 mg/kg, and never for intravenous regional anesthesia.",
+    "id": 155
+  },
+  {
+    "chapter": 10,
+    "front": "Rank local anesthetic absorption by site.",
+    "back": "Intravenous, tracheal, intercostal, caudal, paracervical, epidural, brachial plexus, sciatic and femoral, then subcutaneous.",
+    "id": 156
+  },
+  {
+    "chapter": 10,
+    "front": "List the early symptoms of local anesthetic systemic toxicity.",
+    "back": "Circumoral and tongue numbness, metallic taste, tinnitus, visual disturbance, light-headedness, and confusion, before twitching and seizure.",
+    "id": 157
+  },
+  {
+    "chapter": 10,
+    "front": "State the lipid emulsion regimen for local anesthetic toxicity.",
+    "back": "20 percent emulsion, 1.5 mL/kg lean body mass bolus over two to three minutes, then 0.25 mL/kg/min, with an approximate 12 mL/kg limit.",
+    "id": 158
+  },
+  {
+    "chapter": 10,
+    "front": "How is resuscitation modified in local anesthetic cardiac arrest?",
+    "back": "Epinephrine under 1 microgram/kg, avoid vasopressin, calcium channel and beta blockers, use amiodarone not lidocaine, and resuscitate for a prolonged period.",
+    "id": 159
+  },
+  {
+    "chapter": 10,
+    "front": "Why avoid hyperventilation in local anesthetic toxicity?",
+    "back": "Hypocapnia lowers the seizure threshold for these drugs and worsens handling of the associated acidosis.",
+    "id": 160
+  },
+  {
+    "chapter": 10,
+    "front": "Which steroid must be used for cervical transforaminal injection?",
+    "back": "Non-particulate dexamethasone. Particulate aggregates can embolize into radicular or vertebral arteries and infarct cord, brainstem, or cerebellum.",
+    "id": 161
+  },
+  {
+    "chapter": 10,
+    "front": "Which systemic steroid effect matters most in diabetes?",
+    "back": "Hyperglycemia within hours that can persist several days, warranting explicit monitoring advice as part of consent.",
+    "id": 162
+  },
+  {
+    "chapter": 10,
+    "front": "Compare alcohol and phenol as neurolytic agents.",
+    "back": "Alcohol extracts membrane lipids, is hypobaric, and is painful on injection. Phenol denatures protein, is hyperbaric, and has an initial anesthetic effect.",
+    "id": 163
+  },
+  {
+    "chapter": 11,
+    "front": "How does ketamine produce analgesia?",
+    "back": "Non-competitive NMDA receptor antagonism at the phencyclidine site within the channel pore, targeting the mechanism maintaining central sensitization.",
+    "id": 164
+  },
+  {
+    "chapter": 11,
+    "front": "State subanesthetic ketamine analgesic doses.",
+    "back": "Bolus 0.1 to 0.5 mg/kg and infusion 0.1 to 0.3 mg/kg/hour, far below the 1 to 2 mg/kg used for anesthetic induction.",
+    "id": 165
+  },
+  {
+    "chapter": 11,
+    "front": "Where does consensus guidance support ketamine in acute pain?",
+    "back": "Opioid-tolerant patients, opioid use disorder, thoracic and major spinal surgery, obstructive sleep apnea, and sickle cell vaso-occlusive crisis.",
+    "id": 166
+  },
+  {
+    "chapter": 11,
+    "front": "What limits ketamine dosing clinically?",
+    "back": "Psychomimetic effects including vivid dreams, hallucinations, dissociation, and dysphoria, reduced by slow administration and lower doses.",
+    "id": 167
+  },
+  {
+    "chapter": 11,
+    "front": "What harms follow long-term high-dose ketamine use?",
+    "back": "Ulcerative cystitis with irreversible bladder fibrosis, and hepatotoxicity with repeated therapeutic courses, requiring liver function monitoring.",
+    "id": 168
+  },
+  {
+    "chapter": 11,
+    "front": "Why has ketamine's intracranial pressure contraindication been revised?",
+    "back": "Evidence for a clinically significant rise in ventilated patients is weak, though caution persists in spontaneously breathing patients where hypercapnia could occur.",
+    "id": 169
+  },
+  {
+    "chapter": 11,
+    "front": "State the intravenous lidocaine infusion regimen and its evidence base.",
+    "back": "Bolus 1 to 1.5 mg/kg then 1 to 2 mg/kg/hour, with the strongest evidence in abdominal surgery for pain, opioid use, and bowel function.",
+    "id": 170
+  },
+  {
+    "chapter": 11,
+    "front": "What did the 2021 IASP statement conclude about cannabinoids?",
+    "back": "Evidence does not support a general recommendation for cannabinoids in pain, while explicitly calling for more high-quality research.",
+    "id": 171
+  },
+  {
+    "chapter": 11,
+    "front": "What number needed to treat is reported for cannabinoids?",
+    "back": "Around 20 to 24 for 30 percent pain relief, alongside numbers needed to harm in the single figures for dizziness and cognitive impairment.",
+    "id": 172
+  },
+  {
+    "chapter": 11,
+    "front": "What advantage do gepants offer over triptans?",
+    "back": "They cause no vasoconstriction, so they can be used in coronary artery disease, uncontrolled hypertension, and previous stroke.",
+    "id": 173
+  },
+  {
+    "chapter": 11,
+    "front": "Why is NaV1.8 an attractive analgesic target?",
+    "back": "It is expressed almost exclusively in peripheral sensory neurons, so selective blockade avoids central nervous system effects and abuse liability.",
+    "id": 174
+  },
+  {
+    "chapter": 11,
+    "front": "What is ziconotide and how does it act?",
+    "back": "A synthetic cone snail peptide blocking N-type voltage-gated calcium channels, delivered intrathecally, with no tolerance or dependence.",
+    "id": 175
+  },
+  {
+    "chapter": 11,
+    "front": "Why was tanezumab development halted or restricted?",
+    "back": "Nerve growth factor antibodies produced impressive analgesia but were associated with rapidly progressive osteoarthritis requiring joint replacement.",
+    "id": 176
+  },
+  {
+    "chapter": 11,
+    "front": "How does botulinum toxin produce antinociception beyond muscle relaxation?",
+    "back": "It reduces release of substance P, calcitonin gene-related peptide, and glutamate from sensory neurons.",
+    "id": 177
+  },
+  {
+    "chapter": 11,
+    "front": "What does open-label placebo research demonstrate?",
+    "back": "Benefit occurs in randomized trials even when patients are told the treatment is inert, showing ritual and expectation contribute measurably to outcome.",
+    "id": 178
+  },
+  {
+    "chapter": 12,
+    "front": "Name the four elements of a default multimodal analgesic regimen.",
+    "back": "Scheduled acetaminophen, an NSAID or cyclooxygenase-2 inhibitor, a regional or local anesthetic technique, and opioids as rescue rather than foundation.",
+    "id": 179
+  },
+  {
+    "chapter": 12,
+    "front": "Why does the word scheduled matter in multimodal prescribing?",
+    "back": "Non-opioid analgesics prescribed as needed are frequently not given, so the opioid-sparing effect that justifies them never materializes.",
+    "id": 180
+  },
+  {
+    "chapter": 12,
+    "front": "Which pain measure guides postoperative recovery?",
+    "back": "Dynamic pain during the activity recovery requires, such as coughing after abdominal surgery or knee flexion after arthroplasty.",
+    "id": 181
+  },
+  {
+    "chapter": 12,
+    "front": "Why are background infusions avoided with patient-controlled analgesia?",
+    "back": "They remove the safety mechanism whereby a sedated patient stops pressing the button, though they have a role in opioid-tolerant patients.",
+    "id": 182
+  },
+  {
+    "chapter": 12,
+    "front": "What are the common causes of patient-controlled analgesia failure?",
+    "back": "Inadequate loading, a patient who has not understood or cannot press the device, a mechanical problem, or a surgical complication.",
+    "id": 183
+  },
+  {
+    "chapter": 12,
+    "front": "What is rebound pain after a single-injection block?",
+    "back": "Severe pain after block resolution that can exceed pain without a block, mitigated by starting oral analgesia before the block wears off.",
+    "id": 184
+  },
+  {
+    "chapter": 12,
+    "front": "List the preoperative components of enhanced recovery.",
+    "back": "Education, clear fluids until two hours before induction, carbohydrate loading, avoiding routine bowel preparation, and optimizing anemia and glycemia.",
+    "id": 185
+  },
+  {
+    "chapter": 12,
+    "front": "List the postoperative components of enhanced recovery.",
+    "back": "Early oral intake, mobilization on the day of surgery, early removal of catheters and drains, scheduled multimodal analgesia, and antiemetic prophylaxis.",
+    "id": 186
+  },
+  {
+    "chapter": 12,
+    "front": "How should the opioid-tolerant patient's baseline be handled?",
+    "back": "Continue the usual regimen or an equivalent by another route, then add acute analgesia on top. Withholding baseline produces withdrawal plus surgical pain.",
+    "id": 187
+  },
+  {
+    "chapter": 12,
+    "front": "How is naltrexone managed before elective surgery?",
+    "back": "Stop oral naltrexone 72 hours beforehand. Depot naltrexone requires planning around a four-week window with regional and non-opioid techniques.",
+    "id": 188
+  },
+  {
+    "chapter": 12,
+    "front": "What predicts persistent postoperative opioid use?",
+    "back": "Preoperative opioid use, substance use disorder, mood disorder, and the duration of the initial prescription rather than its dose.",
+    "id": 189
+  },
+  {
+    "chapter": 12,
+    "front": "Why have perioperative gabapentinoids been curtailed?",
+    "back": "Meta-analyses show a small opioid-sparing effect outweighed by sedation and dizziness, particularly in older patients.",
+    "id": 190
+  },
+  {
+    "chapter": 12,
+    "front": "What is an acute pain service's most valuable contribution?",
+    "back": "Standardized procedure-specific protocols embedded in order sets, which reach every patient by default rather than only those referred.",
+    "id": 191
+  },
+  {
+    "chapter": 12,
+    "front": "What is a transitional pain service?",
+    "back": "A service following high-risk surgical patients past discharge, with early evaluations suggesting it reduces persistent pain and persistent opioid use.",
+    "id": 192
+  },
+  {
+    "chapter": 12,
+    "front": "Which adjunct gives both antiemetic and analgesic benefit?",
+    "back": "A single perioperative dose of dexamethasone, which is why it appears in most enhanced recovery protocols.",
+    "id": 193
+  },
+  {
+    "chapter": 12,
+    "front": "What monitoring suits an opioid patient with obstructive sleep apnea?",
+    "back": "Capnography, since saturation can remain normal during carbon dioxide retention in a patient receiving supplemental oxygen.",
+    "id": 194
+  },
+  {
+    "chapter": 13,
+    "front": "What complication follows almost every classical interscalene block?",
+    "back": "Ipsilateral phrenic nerve palsy, close to 100 percent, producing a 25 to 30 percent fall in pulmonary function.",
+    "id": 195
+  },
+  {
+    "chapter": 13,
+    "front": "Which brachial plexus block covers the shoulder, and what does it spare?",
+    "back": "The interscalene block, which characteristically spares the ulnar distribution because C8 and T1 are least reliably reached.",
+    "id": 196
+  },
+  {
+    "chapter": 13,
+    "front": "What is the defining risk of the supraclavicular block?",
+    "back": "Pneumothorax, since the pleura lies immediately deep and medial. It gives dense blockade of the whole arm below the shoulder.",
+    "id": 197
+  },
+  {
+    "chapter": 13,
+    "front": "Which brachial plexus approach is safest in respiratory disease?",
+    "back": "The axillary approach, which is superficial and compressible and avoids both pneumothorax and phrenic palsy.",
+    "id": 198
+  },
+  {
+    "chapter": 13,
+    "front": "Which nerve needs separate blockade in an axillary block?",
+    "back": "The musculocutaneous nerve, which has usually left the sheath and lies within the coracobrachialis muscle.",
+    "id": 199
+  },
+  {
+    "chapter": 13,
+    "front": "Why has the adductor canal block replaced the femoral block for knee arthroplasty?",
+    "back": "It largely spares quadriceps strength, reducing fall risk and permitting earlier mobilization while providing much of the analgesia.",
+    "id": 200
+  },
+  {
+    "chapter": 13,
+    "front": "Which block is standard for hip fracture analgesia?",
+    "back": "The fascia iliaca block, which is technically simple and spares the opioid load that drives delirium in older patients.",
+    "id": 201
+  },
+  {
+    "chapter": 13,
+    "front": "What does a motor response below 0.2 to 0.3 milliamperes indicate?",
+    "back": "Probable intraneural needle placement, mandating withdrawal before any injection.",
+    "id": 202
+  },
+  {
+    "chapter": 13,
+    "front": "What does a transversus abdominis plane block cover?",
+    "back": "Somatic anterior abdominal wall pain from roughly T10 to L1, with no coverage of intra-abdominal visceral pain.",
+    "id": 203
+  },
+  {
+    "chapter": 13,
+    "front": "How does paravertebral block compare with thoracic epidural?",
+    "back": "Comparable analgesia for unilateral thoracic surgery with less hypotension and urinary retention, producing unilateral segmental somatic and sympathetic block.",
+    "id": 204
+  },
+  {
+    "chapter": 13,
+    "front": "What is the erector spinae plane block?",
+    "back": "A block described in 2016 placing local anesthetic deep to the erector spinae muscle at a transverse process, distant from pleura and neuraxis.",
+    "id": 205
+  },
+  {
+    "chapter": 13,
+    "front": "What is the risk of permanent nerve injury from peripheral blockade?",
+    "back": "Of the order of 2 to 4 per 10,000 blocks in large registries, with transient symptoms in a few percent at one week.",
+    "id": 206
+  },
+  {
+    "chapter": 13,
+    "front": "How should regional analgesia be used where compartment syndrome is a risk?",
+    "back": "Use dilute concentrations avoiding dense motor block, document baseline status, monitor frequently, and treat breakthrough pain as compartment syndrome until excluded.",
+    "id": 207
+  },
+  {
+    "chapter": 13,
+    "front": "Which probe suits a deep sciatic block in an obese patient?",
+    "back": "A low-frequency curvilinear probe of 2 to 5 megahertz, trading resolution for depth penetration.",
+    "id": 208
+  },
+  {
+    "chapter": 13,
+    "front": "What is anisotropy in ultrasound?",
+    "back": "The change in a structure's appearance with the angle of insonation, which makes a nerve seem to disappear when the probe tilts.",
+    "id": 209
+  },
+  {
+    "chapter": 13,
+    "front": "What is the commonest cause of perineural catheter failure?",
+    "back": "Dislodgement, which is why securement is the most important practical consideration alongside daily review and ward instructions.",
+    "id": 210
+  },
+  {
+    "chapter": 14,
+    "front": "Where does the spinal cord end, and where does the dural sac end?",
+    "back": "The cord ends at the lower border of L1 or upper L2 in adults; the dural sac ends at S2. In neonates the cord ends around L3.",
+    "id": 211
+  },
+  {
+    "chapter": 14,
+    "front": "Why choose L3-L4 or below for neuraxial procedures?",
+    "back": "Tuffier's line is frequently one or two spaces higher than clinicians believe, with error increasing in obesity and pregnancy.",
+    "id": 212
+  },
+  {
+    "chapter": 14,
+    "front": "What determines spinal block spread?",
+    "back": "Baricity relative to cerebrospinal fluid, patient position, and dose, with volume and injection speed contributing less than commonly assumed.",
+    "id": 213
+  },
+  {
+    "chapter": 14,
+    "front": "Where does hyperbaric solution pool in a supine patient?",
+    "back": "In the thoracic kyphosis around T4 to T8, which is why positioning immediately after injection controls the block.",
+    "id": 214
+  },
+  {
+    "chapter": 14,
+    "front": "Why does a block above T4 cause bradycardia?",
+    "back": "It removes the cardiac accelerator fibers arising from T1 to T4, adding bradycardia and reduced cardiac output to the vasodilation.",
+    "id": 215
+  },
+  {
+    "chapter": 14,
+    "front": "Why is phenylephrine preferred to ephedrine in obstetrics?",
+    "back": "It produces less fetal acidosis while treating maternal hypotension effectively.",
+    "id": 216
+  },
+  {
+    "chapter": 14,
+    "front": "How do intrathecal morphine and fentanyl differ?",
+    "back": "Hydrophilic morphine spreads rostrally giving 18 to 24 hours of analgesia with delayed respiratory depression risk. Lipophilic fentanyl acts segmentally and briefly.",
+    "id": 217
+  },
+  {
+    "chapter": 14,
+    "front": "Why is saline preferred to air for loss of resistance?",
+    "back": "Air is associated with patchy blockade, pneumocephalus, and, if injected in volume, venous air embolism.",
+    "id": 218
+  },
+  {
+    "chapter": 14,
+    "front": "What are typical epidural analgesic concentrations in labor?",
+    "back": "Bupivacaine or ropivacaine 0.0625 to 0.125 percent with fentanyl 2 micrograms per millilitre, preserving motor function.",
+    "id": 219
+  },
+  {
+    "chapter": 14,
+    "front": "What is programmed intermittent epidural bolus?",
+    "back": "Automated boluses at intervals rather than continuous infusion, producing better spread, lower local anesthetic consumption, and better analgesia.",
+    "id": 220
+  },
+  {
+    "chapter": 14,
+    "front": "How often does unintentional dural puncture cause headache?",
+    "back": "Puncture occurs in around 1 percent of epidurals, and 50 to 80 percent of those patients develop post-dural puncture headache.",
+    "id": 221
+  },
+  {
+    "chapter": 14,
+    "front": "Describe post-dural puncture headache.",
+    "back": "Postural, worse sitting or standing and relieved lying flat, frontal or occipital, beginning within 24 to 48 hours, with neck stiffness and photophobia.",
+    "id": 222
+  },
+  {
+    "chapter": 14,
+    "front": "When does a post-dural puncture headache require imaging?",
+    "back": "Loss of the postural component, fever, focal neurology, seizure, or a change in character, because subdural hematoma and venous sinus thrombosis occur.",
+    "id": 223
+  },
+  {
+    "chapter": 14,
+    "front": "How is epidural blood patch performed?",
+    "back": "15 to 20 millilitres of the patient's own blood injected into the epidural space, relieving a large majority, with some requiring a second patch.",
+    "id": 224
+  },
+  {
+    "chapter": 14,
+    "front": "Which segments transmit first and second stage labor pain?",
+    "back": "First stage visceral pain via T10 to L1 sympathetic afferents; second stage adds somatic pudendal input at S2 to S4.",
+    "id": 225
+  },
+  {
+    "chapter": 14,
+    "front": "What are the established effects of labor epidural analgesia?",
+    "back": "Better pain relief than systemic alternatives, no increase in cesarean rate, modest second stage prolongation, more instrumental delivery, and maternal fever.",
+    "id": 226
+  },
+  {
+    "chapter": 15,
+    "front": "What threshold triggers escalated care in rib fractures?",
+    "back": "Age over 65 with three or more fractures, given mortality of several percent and pneumonia rates above 30 percent.",
+    "id": 227
+  },
+  {
+    "chapter": 15,
+    "front": "Which technique best reduces pneumonia in multiple rib fractures?",
+    "back": "Thoracic epidural analgesia, with the strongest evidence for reducing pneumonia and ventilator days, at the cost of hypotension and retention.",
+    "id": 228
+  },
+  {
+    "chapter": 15,
+    "front": "Does analgesia mask the acute abdomen?",
+    "back": "No. Trials show analgesia does not increase missed diagnoses and improves examination reliability by permitting an examination at all.",
+    "id": 229
+  },
+  {
+    "chapter": 15,
+    "front": "Which burns are most painful, and why?",
+    "back": "Superficial partial thickness burns, because nociceptors remain exposed and intact. Full thickness burns are initially insensate centrally.",
+    "id": 230
+  },
+  {
+    "chapter": 15,
+    "front": "Name the three components of burn pain.",
+    "back": "Continuous background pain, unpredictable breakthrough pain, and severe repeated procedural pain that drives anticipatory anxiety.",
+    "id": 231
+  },
+  {
+    "chapter": 15,
+    "front": "How do burn pharmacokinetics change over time?",
+    "back": "The first 48-hour ebb phase reduces clearance. The hypermetabolic flow phase markedly increases clearance, so opioid requirements rise substantially.",
+    "id": 232
+  },
+  {
+    "chapter": 15,
+    "front": "Which distraction technique has evidence in burn dressing changes?",
+    "back": "Immersive virtual reality, which reduces reported pain and pain-related brain activation on functional imaging.",
+    "id": 233
+  },
+  {
+    "chapter": 15,
+    "front": "What is analgosedation?",
+    "back": "Analgesia-first sedation, treating pain before adding a sedative, associated with reduced ventilator days and shorter intensive care stay.",
+    "id": 234
+  },
+  {
+    "chapter": 15,
+    "front": "Name a validated pain tool for ventilated non-communicative patients.",
+    "back": "The Critical-Care Pain Observation Tool, scoring facial expression, body movements, muscle tension, and ventilator compliance or vocalization.",
+    "id": 235
+  },
+  {
+    "chapter": 15,
+    "front": "What does the ABCDEF bundle cover?",
+    "back": "Assess and manage pain, both awakening and breathing trials, choice of drugs, delirium management, early mobility, and family engagement.",
+    "id": 236
+  },
+  {
+    "chapter": 15,
+    "front": "How common is chronic pain one year after major trauma?",
+    "back": "Frequently above 50 percent in severely injured cohorts, and a major contributor to failure to return to work.",
+    "id": 237
+  },
+  {
+    "chapter": 15,
+    "front": "How do chronic pain and post-traumatic stress disorder interact?",
+    "back": "They co-occur at high rates and each maintains the other, so screening for post-traumatic stress in persistent post-trauma pain is warranted.",
+    "id": 238
+  },
+  {
+    "chapter": 15,
+    "front": "Which prehospital analgesic needs no vascular access?",
+    "back": "Intranasal fentanyl, particularly useful in children. Methoxyflurane inhalers and nitrous oxide mixtures are alternatives in some systems.",
+    "id": 239
+  },
+  {
+    "chapter": 15,
+    "front": "What neuropathic pain follows spinal cord injury?",
+    "back": "At-level and below-level neuropathic pain in a majority, often beginning within weeks to months and frequently refractory. Pregabalin has the best evidence.",
+    "id": 240
+  },
+  {
+    "chapter": 15,
+    "front": "Why does iatrogenic withdrawal matter after critical care?",
+    "back": "It is common in adults and children after prolonged opioid and sedative infusion and requires a planned taper rather than abrupt cessation.",
+    "id": 241
+  },
+  {
+    "chapter": 16,
+    "front": "How does diagnostic triage sort low back pain?",
+    "back": "Serious specific pathology well under 5 percent, radicular syndromes 5 to 10 percent, and non-specific low back pain 85 to 90 percent.",
+    "id": 242
+  },
+  {
+    "chapter": 16,
+    "front": "Distinguish radicular pain, radiculopathy, and somatic referred pain.",
+    "back": "Radicular pain is ectopic dorsal root discharge. Radiculopathy is conduction block with numbness and weakness. Somatic referred pain does not extend below the knee.",
+    "id": 243
+  },
+  {
+    "chapter": 16,
+    "front": "What is the natural history of disc-related radicular pain?",
+    "back": "Most improve over six to twelve weeks, with imaging frequently showing resorption of the herniation.",
+    "id": 244
+  },
+  {
+    "chapter": 16,
+    "front": "How should surgery for sciatica be framed?",
+    "back": "As a decision about speed of relief, since surgery gives faster relief but the difference narrows over one to two years.",
+    "id": 245
+  },
+  {
+    "chapter": 16,
+    "front": "What distinguishes neurogenic from vascular claudication?",
+    "back": "Relief with forward flexion, so patients walk further leaning on a trolley and cycle without symptoms.",
+    "id": 246
+  },
+  {
+    "chapter": 16,
+    "front": "What does the evidence show about acetaminophen for low back pain?",
+    "back": "It is ineffective in placebo-controlled trials and is no longer recommended as monotherapy by most guidelines.",
+    "id": 247
+  },
+  {
+    "chapter": 16,
+    "front": "What did the twelve-month opioid versus non-opioid trial find?",
+    "back": "No benefit for pain-related function and slightly worse pain intensity in the opioid group, with more adverse effects.",
+    "id": 248
+  },
+  {
+    "chapter": 16,
+    "front": "Which exercise type is best for chronic low back pain?",
+    "back": "None is superior. Motor control, Pilates, yoga, tai chi, aerobic, and strengthening all help, so the best is the one the patient will do.",
+    "id": 249
+  },
+  {
+    "chapter": 16,
+    "front": "What has the strongest evidence in persistent disabling low back pain?",
+    "back": "Multidisciplinary biopsychosocial rehabilitation combining physical, psychological, and occupational components, with availability the main barrier.",
+    "id": 250
+  },
+  {
+    "chapter": 16,
+    "front": "What prevalence of facet-mediated pain do controlled blocks establish?",
+    "back": "Roughly 10 to 40 percent of chronic low back pain, rising with age, with no clinical or imaging finding reliably identifying it.",
+    "id": 251
+  },
+  {
+    "chapter": 16,
+    "front": "What replaced the term failed back surgery syndrome?",
+    "back": "Persistent spinal pain syndrome type 2, chosen to describe rather than judge and to remove the implication of blame.",
+    "id": 252
+  },
+  {
+    "chapter": 16,
+    "front": "Which messages should be delivered at a first back pain consultation?",
+    "back": "Imaging changes are normal with age, hurt does not equal harm, movement is safe, staying active helps, and flare-ups are expected.",
+    "id": 253
+  },
+  {
+    "chapter": 16,
+    "front": "What is pain neuroscience education?",
+    "back": "Teaching how pain is produced and modulated rather than giving a structural explanation, which reduces catastrophizing when combined with exercise.",
+    "id": 254
+  },
+  {
+    "chapter": 16,
+    "front": "What does the evidence show about fusion for non-specific back pain?",
+    "back": "Outcomes comparable to structured rehabilitation with cognitive behavioral elements, with non-trivial complications, absent instability or deformity.",
+    "id": 255
+  },
+  {
+    "chapter": 16,
+    "front": "Which emerging procedure targets vertebrogenic pain?",
+    "back": "Basivertebral nerve ablation, for pain associated with Modic type 1 or 2 endplate changes, with favorable sham-controlled randomized evidence.",
+    "id": 256
+  },
+  {
+    "chapter": 16,
+    "front": "What is the correct response to suspected cauda equina syndrome?",
+    "back": "Immediate imaging and surgical referral rather than a trial of treatment, since delay causes permanent harm.",
+    "id": 257
+  },
+  {
+    "chapter": 17,
+    "front": "How does cervical myelopathy present?",
+    "back": "Gait disturbance, loss of manual dexterity with buttons and coins, non-dermatomal hand numbness, and urinary urgency.",
+    "id": 258
+  },
+  {
+    "chapter": 17,
+    "front": "Which signs support cervical myelopathy?",
+    "back": "Hyperreflexia below the level, a positive Hoffmann sign, upgoing plantars, clonus, and a positive Lhermitte sign.",
+    "id": 259
+  },
+  {
+    "chapter": 17,
+    "front": "Which cervical root is most commonly affected?",
+    "back": "C7, producing weak elbow extension and wrist flexion, sensory change in the middle finger, and a diminished triceps reflex.",
+    "id": 260
+  },
+  {
+    "chapter": 17,
+    "front": "Describe the C6 radiculopathy pattern.",
+    "back": "Weak elbow flexion and wrist extension, sensory change in the thumb and index finger, and diminished biceps and brachioradialis reflexes.",
+    "id": 261
+  },
+  {
+    "chapter": 17,
+    "front": "What is the Spurling test?",
+    "back": "Extending and laterally flexing the neck toward the symptomatic side with axial compression to reproduce radicular symptoms. High specificity, modest sensitivity.",
+    "id": 262
+  },
+  {
+    "chapter": 17,
+    "front": "Which cervical facet level causes cervicogenic headache?",
+    "back": "C2-C3, supplied by the third occipital nerve, whose blockade produces confirmatory numbness in a strip of suboccipital skin.",
+    "id": 263
+  },
+  {
+    "chapter": 17,
+    "front": "What prevalence of cervical facet pain do controlled blocks show?",
+    "back": "Roughly 25 to 60 percent of chronic neck pain, with higher prevalence after whiplash. C2-C3 and C5-C6 are most commonly implicated.",
+    "id": 264
+  },
+  {
+    "chapter": 17,
+    "front": "How does cervicogenic headache differ from migraine?",
+    "back": "Unilateral without side shift, starting in the neck, provoked by neck movement, with restricted range of motion and little nausea or photophobia.",
+    "id": 265
+  },
+  {
+    "chapter": 17,
+    "front": "What is occipital neuralgia?",
+    "back": "Paroxysmal shooting or stabbing pain in the greater or lesser occipital nerve distribution, often with tenderness over the nerve and sensory change.",
+    "id": 266
+  },
+  {
+    "chapter": 17,
+    "front": "How are whiplash-associated disorders graded?",
+    "back": "Quebec Task Force grades 0 to 4: no complaint; complaint only; musculoskeletal signs; neurological signs; and fracture or dislocation.",
+    "id": 267
+  },
+  {
+    "chapter": 17,
+    "front": "What predicts poor whiplash recovery?",
+    "back": "High initial pain and disability, early post-traumatic stress symptoms, cold hyperalgesia, catastrophizing, and low expectation of recovery.",
+    "id": 268
+  },
+  {
+    "chapter": 17,
+    "front": "What is the correct advice about soft collars after whiplash?",
+    "back": "They worsen outcomes and should not be used. Management emphasizes early activity and reassurance.",
+    "id": 269
+  },
+  {
+    "chapter": 17,
+    "front": "Why does thoracic pain warrant a lower threshold for investigation?",
+    "back": "It carries a higher probability of serious pathology, including visceral referral, compression fracture, metastasis, infection, and inflammatory disease.",
+    "id": 270
+  },
+  {
+    "chapter": 17,
+    "front": "How is an acute vertebral compression fracture identified?",
+    "back": "Magnetic resonance imaging with short tau inversion recovery showing marrow edema, distinguishing acute from old fractures.",
+    "id": 271
+  },
+  {
+    "chapter": 17,
+    "front": "Which step is most often omitted after a fragility fracture?",
+    "back": "Investigation and treatment of the underlying osteoporosis, which has better evidence for preventing future events than augmentation has for the present one.",
+    "id": 272
+  },
+  {
+    "chapter": 18,
+    "front": "State the three grades of neuropathic pain certainty.",
+    "back": "Possible requires history and plausible distribution; probable adds confirmatory sensory signs in the territory; definite adds a confirmatory diagnostic test.",
+    "id": 273
+  },
+  {
+    "chapter": 18,
+    "front": "Describe the distribution of diabetic polyneuropathy.",
+    "back": "Length-dependent and symmetrical, beginning in the toes and ascending, involving the hands only once leg symptoms reach mid-calf.",
+    "id": 274
+  },
+  {
+    "chapter": 18,
+    "front": "Why test glycated hemoglobin rather than fasting glucose in neuropathy?",
+    "back": "Impaired glucose tolerance short of diabetes is itself associated with painful small-fiber neuropathy.",
+    "id": 275
+  },
+  {
+    "chapter": 18,
+    "front": "What is diabetic amyotrophy?",
+    "back": "Lumbosacral radiculoplexus neuropathy with severe unilateral thigh pain, proximal weakness, and marked weight loss, following a monophasic course.",
+    "id": 276
+  },
+  {
+    "chapter": 18,
+    "front": "How is postherpetic neuralgia defined?",
+    "back": "Pain persisting beyond 90 days from rash onset, affecting a proportion that rises steeply with age to perhaps 20 percent or more over 80.",
+    "id": 277
+  },
+  {
+    "chapter": 18,
+    "front": "What increases postherpetic neuralgia risk?",
+    "back": "Older age, greater acute pain severity, greater rash severity, prodromal pain before the rash, and ophthalmic involvement.",
+    "id": 278
+  },
+  {
+    "chapter": 18,
+    "front": "How is herpes zoster and postherpetic neuralgia prevented?",
+    "back": "Recombinant zoster vaccination, antiviral treatment within 72 hours of rash onset, and aggressive treatment of acute zoster pain.",
+    "id": 279
+  },
+  {
+    "chapter": 18,
+    "front": "Describe classical trigeminal neuralgia.",
+    "back": "Paroxysms lasting a fraction of a second to two minutes, unilateral, electric shock-like, triggered by light touch, chewing, talking, or cold air.",
+    "id": 280
+  },
+  {
+    "chapter": 18,
+    "front": "Why is imaging indicated in all trigeminal neuralgia?",
+    "back": "A proportion have a secondary cause including multiple sclerosis, cerebellopontine angle tumor, or arteriovenous malformation.",
+    "id": 281
+  },
+  {
+    "chapter": 18,
+    "front": "Name the procedural options for refractory trigeminal neuralgia.",
+    "back": "Microvascular decompression, percutaneous Gasserian procedures including radiofrequency and balloon compression and glycerol rhizolysis, and stereotactic radiosurgery.",
+    "id": 282
+  },
+  {
+    "chapter": 18,
+    "front": "What is distinctive about oxaliplatin neurotoxicity?",
+    "back": "An acute cold-triggered neuropathy within hours of infusion, plus a chronic sensory neuronopathy that can worsen for months after treatment, called coasting.",
+    "id": 283
+  },
+  {
+    "chapter": 18,
+    "front": "Which agent has the best evidence in chemotherapy-induced neuropathic pain?",
+    "back": "Duloxetine, the only agent with a positive recommendation in several oncology guidelines for established painful neuropathy.",
+    "id": 284
+  },
+  {
+    "chapter": 18,
+    "front": "What is meralgia paresthetica?",
+    "back": "Compression of the lateral femoral cutaneous nerve at the inguinal ligament, producing burning and numbness over the anterolateral thigh with no motor involvement.",
+    "id": 285
+  },
+  {
+    "chapter": 18,
+    "front": "Describe central post-stroke pain.",
+    "back": "Pain following lesions anywhere in the spinothalamocortical pathway, often with delayed onset over weeks to months, burning with allodynia, and characteristically refractory.",
+    "id": 286
+  },
+  {
+    "chapter": 18,
+    "front": "What is the appropriate response to a first-line neuropathic agent that fails entirely?",
+    "back": "Switch to a different first-line agent rather than adding a second drug. Add a second class only where there has been partial response.",
+    "id": 287
+  },
+  {
+    "chapter": 19,
+    "front": "State the four Budapest criteria.",
+    "back": "Disproportionate continuing pain; a symptom in three of four categories; a sign in two of four categories; and no better alternative diagnosis.",
+    "id": 288
+  },
+  {
+    "chapter": 19,
+    "front": "Name the four Budapest symptom and sign categories.",
+    "back": "Sensory, vasomotor, sudomotor and edema, and motor and trophic changes.",
+    "id": 289
+  },
+  {
+    "chapter": 19,
+    "front": "Which Budapest criterion is most often skipped?",
+    "back": "The fourth, that no other diagnosis better explains the picture, which prevents both overdiagnosis and the missing of treatable alternatives.",
+    "id": 290
+  },
+  {
+    "chapter": 19,
+    "front": "How do complex regional pain syndrome types 1 and 2 differ?",
+    "back": "Type 1 occurs without an identifiable nerve lesion; type 2 follows a confirmed peripheral nerve injury. Features, treatment, and prognosis are broadly the same.",
+    "id": 291
+  },
+  {
+    "chapter": 19,
+    "front": "Why was the three-stage description abandoned?",
+    "back": "Prospective study showed patients do not progress reliably through stages, and staging misled clinicians into expecting deterioration.",
+    "id": 292
+  },
+  {
+    "chapter": 19,
+    "front": "Which subtype carries a worse prognosis?",
+    "back": "The cold subtype, with a cold, blue, mottled limb, more common later and in a subset from onset.",
+    "id": 293
+  },
+  {
+    "chapter": 19,
+    "front": "Which cortical finding underpins mirror therapy?",
+    "back": "Cortical reorganization with shrinkage of the affected limb's somatosensory representation, correlating with pain intensity and tactile discrimination impairment.",
+    "id": 294
+  },
+  {
+    "chapter": 19,
+    "front": "What are the three stages of graded motor imagery?",
+    "back": "Left-right discrimination training, then explicit motor imagery, then mirror therapy.",
+    "id": 295
+  },
+  {
+    "chapter": 19,
+    "front": "Which drug class has the best evidence in complex regional pain syndrome?",
+    "back": "Bisphosphonates, with randomized trials of alendronate, clodronate, pamidronate, and neridronate, particularly in early disease with high bone turnover.",
+    "id": 296
+  },
+  {
+    "chapter": 19,
+    "front": "Which treatment has repeatedly been shown not to work?",
+    "back": "Intravenous regional sympathetic blockade with guanethidine, which should not be offered.",
+    "id": 297
+  },
+  {
+    "chapter": 19,
+    "front": "What is the central treatment principle?",
+    "back": "Function must be restored, and every drug, block, and procedure should be justified by whether it enables participation in rehabilitation.",
+    "id": 298
+  },
+  {
+    "chapter": 19,
+    "front": "Which neuromodulation suits focal lower limb disease?",
+    "back": "Dorsal root ganglion stimulation, supported by a randomized trial against conventional spinal cord stimulation at three and twelve months.",
+    "id": 299
+  },
+  {
+    "chapter": 19,
+    "front": "What preventive measure has reasonable support?",
+    "back": "Avoiding prolonged immobilization after fracture and surgery and encouraging early movement, since immobilization is a recognized risk factor.",
+    "id": 300
+  },
+  {
+    "chapter": 19,
+    "front": "Why is amputation almost never appropriate?",
+    "back": "Pain frequently persists as phantom pain and the syndrome can recur in the residual limb.",
+    "id": 301
+  },
+  {
+    "chapter": 19,
+    "front": "What does bone scintigraphy contribute?",
+    "back": "Increased delayed-phase periarticular uptake in a diffuse distribution, with moderate sensitivity falling with duration but better specificity when typical.",
+    "id": 302
+  },
+  {
+    "chapter": 20,
+    "front": "What does SNNOOP10 organize?",
+    "back": "Red flags for secondary headache, covering systemic symptoms, neoplasm, neurological deficit, sudden onset, older age, pattern change, and painkiller overuse.",
+    "id": 303
+  },
+  {
+    "chapter": 20,
+    "front": "Which headache demands urgent investigation?",
+    "back": "Thunderclap headache reaching maximum intensity within one minute, for subarachnoid hemorrhage, reversible cerebral vasoconstriction, sinus thrombosis, and dissection.",
+    "id": 304
+  },
+  {
+    "chapter": 20,
+    "front": "When must giant cell arteritis be considered?",
+    "back": "In any new headache over age 50, particularly with scalp tenderness, jaw claudication, visual symptoms, or polymyalgic features. Treat before biopsy.",
+    "id": 305
+  },
+  {
+    "chapter": 20,
+    "front": "How is migraine without aura diagnosed?",
+    "back": "Five attacks of 4 to 72 hours with two of unilateral, pulsating, moderate or severe, or aggravated by activity, plus nausea or photophobia and phonophobia.",
+    "id": 306
+  },
+  {
+    "chapter": 20,
+    "front": "What does cutaneous allodynia during a migraine indicate?",
+    "back": "Central sensitization, which predicts poorer response to triptans if treatment is delayed.",
+    "id": 307
+  },
+  {
+    "chapter": 20,
+    "front": "How is chronic migraine defined?",
+    "back": "Headache on 15 or more days monthly for over three months, with migraine features on at least eight of those days.",
+    "id": 308
+  },
+  {
+    "chapter": 20,
+    "front": "Why can gepants be used where triptans cannot?",
+    "back": "They cause no vasoconstriction, so they are usable in coronary disease, uncontrolled hypertension, and previous stroke.",
+    "id": 309
+  },
+  {
+    "chapter": 20,
+    "front": "Which preventive is licensed for chronic but not episodic migraine?",
+    "back": "OnabotulinumtoxinA following the PREEMPT injection protocol.",
+    "id": 310
+  },
+  {
+    "chapter": 20,
+    "front": "How is preventive migraine treatment success defined?",
+    "back": "A 50 percent reduction in headache days, after an adequate trial of typically eight to twelve weeks at target dose.",
+    "id": 311
+  },
+  {
+    "chapter": 20,
+    "front": "Describe cluster headache.",
+    "back": "Severe strictly unilateral orbital pain of 15 to 180 minutes, with ipsilateral autonomic features and restlessness, clustering in bouts with circadian regularity.",
+    "id": 312
+  },
+  {
+    "chapter": 20,
+    "front": "What is the acute treatment of cluster headache?",
+    "back": "High-flow oxygen at 12 to 15 litres per minute by non-rebreathing mask, effective in a majority within 15 minutes, and subcutaneous sumatriptan.",
+    "id": 313
+  },
+  {
+    "chapter": 20,
+    "front": "What is the mainstay of cluster headache prevention?",
+    "back": "Verapamil at doses above cardiological ranges, requiring electrocardiographic monitoring for conduction abnormality as the dose rises.",
+    "id": 314
+  },
+  {
+    "chapter": 20,
+    "front": "Which conditions respond absolutely to indomethacin?",
+    "back": "Paroxysmal hemicrania and hemicrania continua, which is why an indomethacin trial suits any unilateral headache with autonomic features.",
+    "id": 315
+  },
+  {
+    "chapter": 20,
+    "front": "State the medication overuse headache thresholds.",
+    "back": "Fifteen or more days monthly for simple analgesics; ten or more for triptans, ergots, opioids, and combination analgesics.",
+    "id": 316
+  },
+  {
+    "chapter": 20,
+    "front": "What should patients expect on withdrawing an overused headache medication?",
+    "back": "Headache typically worsens for one to two weeks before improving, which is when most attempts fail. Bridging therapy improves tolerability.",
+    "id": 317
+  },
+  {
+    "chapter": 20,
+    "front": "How are temporomandibular disorders managed?",
+    "back": "Conservatively in the great majority, with education, jaw rest and soft diet during flares, exercises, and cognitive behavioral therapy.",
+    "id": 318
+  },
+  {
+    "chapter": 21,
+    "front": "What defines a myofascial trigger point?",
+    "back": "A hyperirritable spot in a taut band of skeletal muscle, painful on compression, producing a characteristic referred pain pattern and a local twitch response.",
+    "id": 319
+  },
+  {
+    "chapter": 21,
+    "front": "Which trigger points mimic sciatica and radiculopathy?",
+    "back": "Gluteus medius and minimus points refer down the leg mimicking sciatica; infraspinatus points refer down the arm mimicking cervical radiculopathy.",
+    "id": 320
+  },
+  {
+    "chapter": 21,
+    "front": "What does the evidence show about trigger point injectate?",
+    "back": "Dry needling and injection give comparable results, suggesting the needle does much of the work. Corticosteroid adds nothing and should not be used.",
+    "id": 321
+  },
+  {
+    "chapter": 21,
+    "front": "How does myofascial pain differ from fibromyalgia?",
+    "back": "Myofascial pain is regional with taut bands and referral patterns and lacks the systemic cluster of fatigue, unrefreshing sleep, and cognitive difficulty.",
+    "id": 322
+  },
+  {
+    "chapter": 21,
+    "front": "What do the 2016 fibromyalgia criteria require?",
+    "back": "Generalized pain in at least four of five regions for three months, with defined widespread pain index and symptom severity scores.",
+    "id": 323
+  },
+  {
+    "chapter": 21,
+    "front": "What do the criteria say about coexisting diagnoses?",
+    "back": "The diagnosis is valid irrespective of other diagnoses and does not exclude other clinically important illnesses.",
+    "id": 324
+  },
+  {
+    "chapter": 21,
+    "front": "What proportion of inflammatory rheumatic disease patients meet fibromyalgia criteria?",
+    "back": "Roughly 20 to 30 percent. Failing to recognize this leads to escalating immunosuppression for symptoms that are not inflammatory.",
+    "id": 325
+  },
+  {
+    "chapter": 21,
+    "front": "What evidence supports central mechanisms in fibromyalgia?",
+    "back": "Lowered pressure pain thresholds distant from pathology, enhanced temporal summation, impaired conditioned pain modulation, and augmented functional imaging responses.",
+    "id": 326
+  },
+  {
+    "chapter": 21,
+    "front": "What is the key skill in prescribing exercise for fibromyalgia?",
+    "back": "Pacing, with a graded program starting well below perceived capacity and increasing slowly by time rather than intensity.",
+    "id": 327
+  },
+  {
+    "chapter": 21,
+    "front": "Which drugs should be explained as ineffective in fibromyalgia?",
+    "back": "Nonsteroidal anti-inflammatory drugs and acetaminophen as monotherapy, and opioids, which are ineffective and harmful.",
+    "id": 328
+  },
+  {
+    "chapter": 21,
+    "front": "Which features indicate inflammatory rather than mechanical pain?",
+    "back": "Morning stiffness beyond 30 to 60 minutes, improvement with activity and worsening with rest, night pain in the second half, and raised inflammatory markers.",
+    "id": 329
+  },
+  {
+    "chapter": 21,
+    "front": "Describe inflammatory back pain in axial spondyloarthritis.",
+    "back": "Onset before 45, insidious onset, morning stiffness over 30 minutes, improvement with exercise not rest, and night pain easing on rising.",
+    "id": 330
+  },
+  {
+    "chapter": 21,
+    "front": "Why does radiographic osteoarthritis correlate poorly with pain?",
+    "back": "Cartilage is aneural. Pain arises from subchondral bone, synovium, capsule, ligaments, and periarticular muscle, with central sensitization contributing.",
+    "id": 331
+  },
+  {
+    "chapter": 21,
+    "front": "What is first-line pharmacological treatment for knee osteoarthritis?",
+    "back": "Topical nonsteroidal anti-inflammatory drugs, ahead of oral agents, on comparable efficacy with markedly lower systemic risk.",
+    "id": 332
+  },
+  {
+    "chapter": 21,
+    "front": "What do sham-controlled trials show about arthroscopy for degenerative knee disease?",
+    "back": "No benefit over placebo or physiotherapy, and guidelines now recommend strongly against arthroscopic debridement and partial meniscectomy.",
+    "id": 333
+  },
+  {
+    "chapter": 22,
+    "front": "Which stimuli produce visceral pain?",
+    "back": "Distension, stretch of capsule or mesentery, ischemia, inflammation, and traction. Cutting, burning, and crushing a viscus produce none.",
+    "id": 334
+  },
+  {
+    "chapter": 22,
+    "front": "Why is visceral pain poorly localized?",
+    "back": "Visceral afferents are sparse, each innervates a large receptive field with extensive spinal divergence, and they enter over several segments bilaterally.",
+    "id": 335
+  },
+  {
+    "chapter": 22,
+    "front": "State the three embryological referral patterns.",
+    "back": "Foregut refers to the epigastrium, midgut periumbilically, and hindgut to the suprapubic region.",
+    "id": 336
+  },
+  {
+    "chapter": 22,
+    "front": "How is Carnett sign performed?",
+    "back": "Palpate the tender point, then tense the abdominal wall by raising the head or legs. Persisting tenderness indicates an abdominal wall source.",
+    "id": 337
+  },
+  {
+    "chapter": 22,
+    "front": "What is anterior cutaneous nerve entrapment syndrome?",
+    "back": "Entrapment of terminal intercostal branches in the rectus sheath, producing a small area of intense wall pain with a positive Carnett sign.",
+    "id": 338
+  },
+  {
+    "chapter": 22,
+    "front": "How is irritable bowel syndrome defined?",
+    "back": "Recurrent abdominal pain at least one day weekly over three months, with two or more of relation to defecation, stool frequency change, or form change.",
+    "id": 339
+  },
+  {
+    "chapter": 22,
+    "front": "Which alarm features prompt investigation in suspected irritable bowel syndrome?",
+    "back": "Onset over 50, rectal bleeding, weight loss, nocturnal symptoms, anemia, and family history of colorectal cancer, celiac disease, or inflammatory bowel disease.",
+    "id": 340
+  },
+  {
+    "chapter": 22,
+    "front": "What is narcotic bowel syndrome?",
+    "back": "Paradoxical worsening of abdominal pain with escalating opioid dose, with transient improvement after each dose, treated by opioid withdrawal.",
+    "id": 341
+  },
+  {
+    "chapter": 22,
+    "front": "Which dietary approach has the best irritable bowel evidence?",
+    "back": "The low FODMAP diet, when delivered by a dietitian rather than attempted independently.",
+    "id": 342
+  },
+  {
+    "chapter": 22,
+    "front": "Why has endometriosis diagnosis moved away from mandatory laparoscopy?",
+    "back": "Negative laparoscopy does not exclude the condition and positive findings do not guarantee they explain the pain, since lesion extent correlates poorly.",
+    "id": 343
+  },
+  {
+    "chapter": 22,
+    "front": "Which underused treatment addresses pelvic floor myofascial dysfunction?",
+    "back": "Pelvic floor physical therapy, after identification by palpation of levator ani and obturator internus reproducing the patient's pain.",
+    "id": 344
+  },
+  {
+    "chapter": 22,
+    "front": "Describe pudendal neuralgia.",
+    "back": "Neuropathic pain in the pudendal distribution, worse on sitting and relieved by standing or sitting on a toilet seat, with the Nantes criteria for diagnosis.",
+    "id": 345
+  },
+  {
+    "chapter": 22,
+    "front": "What does the UPOINT classification organize?",
+    "back": "Domains in male chronic pelvic pain syndrome: urinary, psychosocial, organ-specific, infection, neurological and systemic, and tenderness of skeletal muscle.",
+    "id": 346
+  },
+  {
+    "chapter": 22,
+    "front": "Why is repeated investigation harmful in chronic abdominal pain?",
+    "back": "Each negative test reinforces the belief something has been missed, and each abdominal procedure adds risk and adhesions.",
+    "id": 347
+  },
+  {
+    "chapter": 22,
+    "front": "Which block addresses perineal and coccygeal pain?",
+    "back": "Ganglion impar block at the sacrococcygeal junction, where the two sympathetic chains fuse.",
+    "id": 348
+  },
+  {
+    "chapter": 23,
+    "front": "How accurate is blind lumbar epidural injection?",
+    "back": "Around 50 to 75 percent, and lower for facet and sacroiliac targets, which invalidates both the treatment and any diagnostic conclusion.",
+    "id": 349
+  },
+  {
+    "chapter": 23,
+    "front": "Where does operator radiation exposure come from?",
+    "back": "Compton scatter off the patient, not the primary beam, which passes into the detector. This organizes almost all radiation protection.",
+    "id": 350
+  },
+  {
+    "chapter": 23,
+    "front": "Why does tube position matter so much?",
+    "back": "Scatter is most intense at the beam entrance surface, so an under-table tube directs it toward the floor rather than the operator's head and eyes.",
+    "id": 351
+  },
+  {
+    "chapter": 23,
+    "front": "How much does pulsed fluoroscopy reduce dose?",
+    "back": "Roughly in proportion to frame rate, so 3 to 7.5 frames per second against continuous 30 gives reductions of 75 percent or more.",
+    "id": 352
+  },
+  {
+    "chapter": 23,
+    "front": "What hidden hazard does automatic exposure control create?",
+    "back": "It silently increases output as patient thickness or air gap rises, giving the operator no indication that dose has increased several-fold.",
+    "id": 353
+  },
+  {
+    "chapter": 23,
+    "front": "Identify the parts of the lumbar Scottie dog.",
+    "back": "Transverse process is the nose, superior articular process the ear, pedicle the eye, pars interarticularis the neck, and inferior articular process the foreleg.",
+    "id": 354
+  },
+  {
+    "chapter": 23,
+    "front": "Why must contrast be observed live rather than on a static image?",
+    "back": "Vascular uptake washes out immediately and is invisible on an image taken after injection.",
+    "id": 355
+  },
+  {
+    "chapter": 23,
+    "front": "Why should sedation be minimal during a diagnostic block?",
+    "back": "A sedated patient cannot report paresthesia, injection pain, or reliable relief, which defeats the diagnostic purpose entirely.",
+    "id": 356
+  },
+  {
+    "chapter": 23,
+    "front": "Name four ultrasound artifacts.",
+    "back": "Acoustic shadowing behind bone, posterior enhancement behind fluid, reverberation as repeating parallel lines, and anisotropy varying with probe angle.",
+    "id": 357
+  },
+  {
+    "chapter": 23,
+    "front": "Which outbreak shaped injectable pain medication safety?",
+    "back": "The 2012 United States fungal meningitis outbreak from contaminated compounded methylprednisolone, which caused dozens of deaths.",
+    "id": 358
+  },
+  {
+    "chapter": 23,
+    "front": "Which procedures are high risk for bleeding?",
+    "back": "Spinal cord stimulator and intrathecal pump implantation, and any procedure in the cervical spine or a non-compressible deep location.",
+    "id": 359
+  },
+  {
+    "chapter": 23,
+    "front": "Which anticoagulation principles persist across guideline revisions?",
+    "back": "Intervals depend on half-life and renal function, removal carries the same risk as insertion, resumption must be delayed, and thrombotic risk must be weighed.",
+    "id": 360
+  },
+  {
+    "chapter": 23,
+    "front": "Which tissue is most radiosensitive in interventional practice?",
+    "back": "The lens of the eye, whose dose limit was reduced after evidence of cataract at lower doses than previously believed.",
+    "id": 361
+  },
+  {
+    "chapter": 23,
+    "front": "Which single measure reduces both patient dose and operator scatter?",
+    "back": "Collimation to the area of interest, which also improves image quality by reducing scattered photons reaching the detector.",
+    "id": 362
+  },
+  {
+    "chapter": 23,
+    "front": "Which time-out step prevents one of the commonest serious errors?",
+    "back": "Confirming and marking the correct level with image documentation, since wrong-level procedures are among the commonest serious errors.",
+    "id": 363
+  },
+  {
+    "chapter": 24,
+    "front": "Why do epidural steroids help radicular but not axial pain?",
+    "back": "They act on chemical inflammation around a nerve root, a mechanism absent in axial pain without radicular features.",
+    "id": 364
+  },
+  {
+    "chapter": 24,
+    "front": "What is the realistic benefit of epidural steroid injection?",
+    "back": "Short-term leg pain reduction and improved function over two to six weeks, diminishing by three to six months, with no clear difference at one year.",
+    "id": 365
+  },
+  {
+    "chapter": 24,
+    "front": "Compare the three approaches to the epidural space.",
+    "back": "Transforaminal is target-specific with the best radicular evidence, interlaminar gives broad posterior spread, and caudal is safest with no dural puncture risk.",
+    "id": 366
+  },
+  {
+    "chapter": 24,
+    "front": "Why must cervical interlaminar injection be at C7-T1 or lower?",
+    "back": "The epidural space may be a millimetre or less at higher cervical levels.",
+    "id": 367
+  },
+  {
+    "chapter": 24,
+    "front": "Which artery matters in lumbar transforaminal injection?",
+    "back": "The artery of Adamkiewicz, most often arising between T9 and L2 on the left but occasionally as low as L4 or L5.",
+    "id": 368
+  },
+  {
+    "chapter": 24,
+    "front": "Define the safe triangle.",
+    "back": "Bounded by the pedicle superiorly, the exiting nerve root inferomedially, and the lateral border of the vertebral body laterally.",
+    "id": 369
+  },
+  {
+    "chapter": 24,
+    "front": "Why is aspiration unreliable before injection?",
+    "back": "A needle within a small vessel frequently does not aspirate blood, so live contrast observation is the actual safeguard.",
+    "id": 370
+  },
+  {
+    "chapter": 24,
+    "front": "Who is a poor candidate for epidural steroid injection?",
+    "back": "Axial pain without radicular features, symptoms of many years, prominent nociplastic features, high catastrophizing, and an expectation of cure.",
+    "id": 371
+  },
+  {
+    "chapter": 24,
+    "front": "Which findings indicate surgical referral rather than injection?",
+    "back": "Progressive neurological deficit and cauda equina syndrome.",
+    "id": 372
+  },
+  {
+    "chapter": 24,
+    "front": "When may an epidural steroid injection be repeated?",
+    "back": "When the previous injection produced documented pain and functional benefit that has since worn off, with adequate interval and cumulative steroid tracked.",
+    "id": 373
+  },
+  {
+    "chapter": 24,
+    "front": "What ambiguity persists in the epidural steroid literature?",
+    "back": "Control arms using epidural local anesthetic or saline often improve too, so the steroid's independent contribution remains genuinely unresolved.",
+    "id": 374
+  },
+  {
+    "chapter": 24,
+    "front": "What is the main limitation of a selective nerve root block?",
+    "back": "Spread to adjacent levels or the epidural space, which is why volumes must be kept to 0.5 to 1 millilitre with contrast confirmation.",
+    "id": 375
+  },
+  {
+    "chapter": 24,
+    "front": "What does the evidence show in lumbar spinal stenosis?",
+    "back": "Weaker than in disc-related radicular pain, with a prominent trial finding minimal added benefit from steroid over lidocaine alone at six weeks.",
+    "id": 376
+  },
+  {
+    "chapter": 24,
+    "front": "What should consent for transforaminal injection include?",
+    "back": "Realistic temporary benefit, common effects including flushing and hyperglycemia, serious risks including catastrophic neurological injury, radiation, and alternatives.",
+    "id": 377
+  },
+  {
+    "chapter": 24,
+    "front": "Which technique improves vascular uptake detection cervically?",
+    "back": "Digital subtraction angiography, recommended by many, though it does not detect every intravascular injection.",
+    "id": 378
+  },
+  {
+    "chapter": 25,
+    "front": "How many nerves supply a single facet joint?",
+    "back": "Two medial branches, one from the level above and one from the same level, so blocking or denervating a joint always requires two injections or lesions.",
+    "id": 379
+  },
+  {
+    "chapter": 25,
+    "front": "Which nerves supply the L5-S1 facet joint?",
+    "back": "The L4 medial branch and the L5 dorsal ramus, the latter targeted at the junction of the sacral ala and the S1 superior articular process.",
+    "id": 380
+  },
+  {
+    "chapter": 25,
+    "front": "Where is the lumbar medial branch targeted?",
+    "back": "At the junction of the superior articular process and the transverse process, in the groove at the base of the superior articular process.",
+    "id": 381
+  },
+  {
+    "chapter": 25,
+    "front": "Why can no clinical finding identify facet-mediated pain?",
+    "back": "Facet loading, paraspinal tenderness, and imaging degeneration have all been tested and none is accurate enough to select patients.",
+    "id": 382
+  },
+  {
+    "chapter": 25,
+    "front": "State the six technical requirements for a valid diagnostic block.",
+    "back": "Small volume, image guidance with contrast, minimal sedation, documented pre-block score, diary assessment during provoking activity, and an 80 percent threshold.",
+    "id": 383
+  },
+  {
+    "chapter": 25,
+    "front": "How does radiofrequency generate heat?",
+    "back": "High-frequency alternating current agitates ions in tissue around the exposed tip, generating frictional heat. The tissue heats the electrode, not the reverse.",
+    "id": 384
+  },
+  {
+    "chapter": 25,
+    "front": "Why must the electrode lie parallel to the target nerve?",
+    "back": "The lesion forms radially around the active tip and extends minimally beyond it, so perpendicular placement may catch only a fragment or miss entirely.",
+    "id": 385
+  },
+  {
+    "chapter": 25,
+    "front": "What should sensory and motor stimulation show before lesioning?",
+    "back": "Concordant pain at 50 hertz below about 0.5 volts, and multifidus but not limb contraction at 2 hertz. Limb contraction mandates repositioning.",
+    "id": 386
+  },
+  {
+    "chapter": 25,
+    "front": "What are conventional thermal radiofrequency parameters?",
+    "back": "80 to 90 degrees Celsius for 60 to 90 seconds, producing coagulative necrosis and Wallerian degeneration, with regeneration over months.",
+    "id": 387
+  },
+  {
+    "chapter": 25,
+    "front": "How does pulsed radiofrequency differ?",
+    "back": "It keeps tissue below about 42 degrees so no thermal destruction occurs, with a proposed neuromodulatory mechanism and a much weaker evidence base.",
+    "id": 388
+  },
+  {
+    "chapter": 25,
+    "front": "What does cooled radiofrequency achieve?",
+    "back": "A larger, more spherical lesion projecting beyond the tip, useful for sacroiliac lateral branch and genicular procedures where target location is variable.",
+    "id": 389
+  },
+  {
+    "chapter": 25,
+    "front": "What outcomes follow well-selected lumbar medial branch neurotomy?",
+    "back": "Substantial relief in a majority, with median durations commonly reported between six and twelve months, and similar success on repetition.",
+    "id": 390
+  },
+  {
+    "chapter": 25,
+    "front": "Why does multifidus atrophy follow repeated lumbar neurotomy?",
+    "back": "The medial branch supplies that muscle as well as the facet joint, which is a reason to avoid unnecessary repetition.",
+    "id": 391
+  },
+  {
+    "chapter": 25,
+    "front": "What should be explained before third occipital nerve neurotomy?",
+    "back": "Numbness in a strip of suboccipital skin, and frequently transient ataxia and dysesthesia.",
+    "id": 392
+  },
+  {
+    "chapter": 25,
+    "front": "Which provocation test cluster supports sacroiliac joint pain?",
+    "back": "Three or more positive from distraction, thigh thrust, compression, Gaenslen, and sacral thrust, since no single test is reliable.",
+    "id": 393
+  },
+  {
+    "chapter": 26,
+    "front": "How does celiac plexus block relieve pancreatic pain?",
+    "back": "Visceral afferents travel with sympathetic efferents through the plexus, so blockade interrupts nociceptive afferent transmission rather than efferent tone.",
+    "id": 394
+  },
+  {
+    "chapter": 26,
+    "front": "What is sympathetically maintained pain?",
+    "back": "Pain dependent on sympathetic activity, where injured nociceptors express alpha adrenoceptors and sympathetic fibers sprout into the dorsal root ganglion.",
+    "id": 395
+  },
+  {
+    "chapter": 26,
+    "front": "How is an adequate sympathetic block documented?",
+    "back": "Skin temperature rise of at least 1.5 to 2 degrees Celsius, or Horner syndrome for stellate blocks. A negative result from an inadequate block excludes nothing.",
+    "id": 396
+  },
+  {
+    "chapter": 26,
+    "front": "Why is stellate ganglion block performed at C6?",
+    "back": "The vertebral artery is enclosed within the transverse foramen at C6 and above but lies exposed anteriorly at C7, making a C7 approach more hazardous.",
+    "id": 397
+  },
+  {
+    "chapter": 26,
+    "front": "Why must bilateral stellate blocks never be done on the same day?",
+    "back": "Bilateral recurrent laryngeal nerve palsy would obstruct the airway.",
+    "id": 398
+  },
+  {
+    "chapter": 26,
+    "front": "List the complications of stellate ganglion block.",
+    "back": "Hoarseness, phrenic palsy, brachial plexus block, vertebral artery injection causing seizure, intrathecal spread, pneumothorax, esophageal puncture, and hematoma.",
+    "id": 399
+  },
+  {
+    "chapter": 26,
+    "front": "Where is the celiac plexus, and what does it serve?",
+    "back": "Anterior and anterolateral to the aorta at L1, serving foregut structures from distal esophagus to mid transverse colon, plus liver, pancreas, spleen, and kidneys.",
+    "id": 400
+  },
+  {
+    "chapter": 26,
+    "front": "Which complications should be anticipated after celiac plexus neurolysis?",
+    "back": "Hypotension from splanchnic vasodilation and diarrhea from unopposed parasympathetic activity, both usually transient.",
+    "id": 401
+  },
+  {
+    "chapter": 26,
+    "front": "When should celiac plexus neurolysis be offered?",
+    "back": "Early rather than as a last resort, since analyses suggest early neurolysis at diagnosis improves quality of life relative to deferring it.",
+    "id": 402
+  },
+  {
+    "chapter": 26,
+    "front": "Where is the superior hypogastric plexus?",
+    "back": "Anterior to the lower L5 vertebral body and sacral promontory, carrying afferents from descending colon, rectum, bladder, uterus, ovaries, and prostate.",
+    "id": 403
+  },
+  {
+    "chapter": 26,
+    "front": "What is the ganglion impar?",
+    "back": "The single midline ganglion at the sacrococcygeal junction where the sympathetic chains fuse, carrying perineal, distal rectal, and distal vaginal afferents.",
+    "id": 404
+  },
+  {
+    "chapter": 26,
+    "front": "What is deafferentation pain?",
+    "back": "A new neuropathic pain arising from the denervation itself, which may exceed the pain treated and is the principal reason neurolysis is limited to cancer pain.",
+    "id": 405
+  },
+  {
+    "chapter": 26,
+    "front": "Which cancer pain indication suits percutaneous cordotomy?",
+    "back": "Unilateral pain below the shoulder, particularly mesothelioma and Pancoast tumors, lesioning the anterolateral quadrant at C1-C2.",
+    "id": 406
+  },
+  {
+    "chapter": 26,
+    "front": "What limits bilateral or high cervical cordotomy?",
+    "back": "Interruption of reticulospinal fibers controlling automatic respiration, producing sleep apnea and respiratory failure, historically called Ondine curse.",
+    "id": 407
+  },
+  {
+    "chapter": 26,
+    "front": "When is splanchnic nerve blockade used instead of celiac plexus block?",
+    "back": "When tumor bulk or altered anatomy makes the plexus inaccessible, targeting the nerves at T11 to T12 against the vertebral body.",
+    "id": 408
+  },
+  {
+    "chapter": 27,
+    "front": "On what theory was spinal cord stimulation based?",
+    "back": "Gate control theory, with dorsal column A-beta stimulation antidromically activating collaterals that engage inhibitory dorsal horn interneurons.",
+    "id": 409
+  },
+  {
+    "chapter": 27,
+    "front": "Which is the most established stimulation indication?",
+    "back": "Persistent spinal pain syndrome after surgery with predominantly radicular leg pain, accounting for the majority of implants.",
+    "id": 410
+  },
+  {
+    "chapter": 27,
+    "front": "Name the other supported stimulation indications.",
+    "back": "Complex regional pain syndrome, painful diabetic neuropathy, refractory angina, critical limb ischemia, and emerging evidence in non-surgical refractory back pain.",
+    "id": 411
+  },
+  {
+    "chapter": 27,
+    "front": "Which patients should not be offered spinal cord stimulation?",
+    "back": "Those with nociplastic conditions such as fibromyalgia and widespread pain, and those with prominent unresolved psychosocial drivers.",
+    "id": 412
+  },
+  {
+    "chapter": 27,
+    "front": "What are the selection criteria for stimulation?",
+    "back": "Predominantly neuropathic limb pain, no correctable structural lesion, genuinely exhausted treatment, duration over six to twelve months, and no untreated psychiatric illness.",
+    "id": 413
+  },
+  {
+    "chapter": 27,
+    "front": "What threshold governs proceeding from trial to implant?",
+    "back": "At least 50 percent pain reduction, with better practice adding functional criteria such as improved sleep, activity, and reduced medication use.",
+    "id": 414
+  },
+  {
+    "chapter": 27,
+    "front": "What advantage does 10 kilohertz stimulation offer?",
+    "back": "Analgesia without paresthesia, permitting genuine blinding in trials and removing the need for intraoperative mapping.",
+    "id": 415
+  },
+  {
+    "chapter": 27,
+    "front": "What do closed-loop systems do?",
+    "back": "Measure the evoked compound action potential in the dorsal columns and adjust output in real time to maintain constant activation despite postural change.",
+    "id": 416
+  },
+  {
+    "chapter": 27,
+    "front": "Why does dorsal root ganglion stimulation suit focal pain?",
+    "back": "The ganglion contains cell bodies from a defined territory, giving precise stable coverage of regions such as foot and groin with minimal postural variation.",
+    "id": 417
+  },
+  {
+    "chapter": 27,
+    "front": "Which complication of implanted stimulators is commonest?",
+    "back": "Lead migration, historically reported in a substantial minority, causing loss of coverage and requiring revision.",
+    "id": 418
+  },
+  {
+    "chapter": 27,
+    "front": "What should be tried before declaring stimulation failed?",
+    "back": "Reprogramming, a change of waveform, or lead revision, since a patient failing one waveform may respond to another.",
+    "id": 419
+  },
+  {
+    "chapter": 27,
+    "front": "Which non-invasive technique has evidence in neuropathic pain?",
+    "back": "Repetitive transcranial magnetic stimulation applied to the primary motor cortex, with a modest analgesic effect.",
+    "id": 420
+  },
+  {
+    "chapter": 27,
+    "front": "How do high and low frequency transcutaneous nerve stimulation differ?",
+    "back": "High-frequency low-intensity engages segmental gating during use; low-frequency high-intensity engages endogenous opioid mechanisms with more prolonged effect.",
+    "id": 421
+  },
+  {
+    "chapter": 27,
+    "front": "What practical device issue matters for these patients?",
+    "back": "Magnetic resonance conditionality, which differs by device and body region, so patients must carry device identification. Diathermy is contraindicated.",
+    "id": 422
+  },
+  {
+    "chapter": 27,
+    "front": "How is the choice made between stimulation and intrathecal delivery?",
+    "back": "Focal neuropathic pain favors stimulation; diffuse, midline, or nociceptive cancer pain and short prognosis favor intrathecal delivery.",
+    "id": 423
+  },
+  {
+    "chapter": 28,
+    "front": "State the oral to intrathecal morphine conversion ratio.",
+    "back": "Approximately 300 to 1, and roughly 100 to 1 from intravenous, which is the entire pharmacological argument for the therapy.",
+    "id": 424
+  },
+  {
+    "chapter": 28,
+    "front": "How does lipophilicity affect intrathecal drug behavior?",
+    "back": "Hydrophilic drugs remain in cerebrospinal fluid and spread rostrally; lipophilic drugs are taken up into the cord and act segmentally near the catheter tip.",
+    "id": 425
+  },
+  {
+    "chapter": 28,
+    "front": "What did the randomized trial of intrathecal delivery in cancer pain show?",
+    "back": "Better pain control, fewer drug toxicities, and improved survival at six months, attributed to reduced systemic toxicity.",
+    "id": 426
+  },
+  {
+    "chapter": 28,
+    "front": "Which agents are first-line intrathecal monotherapy?",
+    "back": "Morphine and ziconotide, the only agents with specific approval for intrathecal use in most jurisdictions.",
+    "id": 427
+  },
+  {
+    "chapter": 28,
+    "front": "Which adjuvants are added to intrathecal regimens?",
+    "back": "Bupivacaine most frequently, particularly for neuropathic and incident pain, plus clonidine for neuropathic components and baclofen for spasticity.",
+    "id": 428
+  },
+  {
+    "chapter": 28,
+    "front": "Why must ziconotide be titrated weekly?",
+    "back": "Its therapeutic window is narrow, and rapid titration is the commonest cause of the dizziness, confusion, hallucinations, and psychosis it can produce.",
+    "id": 429
+  },
+  {
+    "chapter": 28,
+    "front": "What is a pocket fill and why does it matter?",
+    "back": "Injecting drug into the subcutaneous pocket rather than the reservoir during refill, producing massive systemic overdose. Deaths have resulted.",
+    "id": 430
+  },
+  {
+    "chapter": 28,
+    "front": "How is a pocket fill prevented?",
+    "back": "Template use, aspiration of the expected residual volume before filling, confirmation that aspirated volume matches expectation, and sometimes imaging guidance.",
+    "id": 431
+  },
+  {
+    "chapter": 28,
+    "front": "How does catheter tip granuloma present?",
+    "back": "Insidious loss of analgesic effect, then radicular pain, weakness, sensory change, and bladder dysfunction, potentially causing permanent cord injury.",
+    "id": 432
+  },
+  {
+    "chapter": 28,
+    "front": "Which agents most and least cause catheter tip granuloma?",
+    "back": "Most with high-concentration morphine and hydromorphone; least with fentanyl and ziconotide.",
+    "id": 433
+  },
+  {
+    "chapter": 28,
+    "front": "What should sudden worsening of pain in an intrathecal patient suggest?",
+    "back": "A device problem until proven otherwise, investigated by pump interrogation, plain radiography of the whole system, and a catheter dye study.",
+    "id": 434
+  },
+  {
+    "chapter": 28,
+    "front": "Why do vertebroplasty trials conflict?",
+    "back": "Patient selection. Sham-controlled trials in unselected patients showed no benefit; trials in acute fractures with confirmed marrow edema showed benefit.",
+    "id": 435
+  },
+  {
+    "chapter": 28,
+    "front": "What imaging selects patients for vertebral augmentation?",
+    "back": "Magnetic resonance imaging with short tau inversion recovery confirming marrow edema at the level corresponding to tenderness, with scintigraphy as an alternative.",
+    "id": 436
+  },
+  {
+    "chapter": 28,
+    "front": "Which augmentation complication is common but usually asymptomatic?",
+    "back": "Cement extravasation, which can cause radiculopathy or cord compression if it enters the canal or foramen.",
+    "id": 437
+  },
+  {
+    "chapter": 28,
+    "front": "What monitoring follows an intrathecal morphine trial?",
+    "back": "Respiratory monitoring for 24 hours, because delayed respiratory depression peaks many hours after administration.",
+    "id": 438
+  },
+  {
+    "chapter": 29,
+    "front": "How common is pain in advanced cancer?",
+    "back": "Roughly 65 to 80 percent in advanced disease and 40 to 50 percent at any stage, with a substantial proportion remaining undertreated.",
+    "id": 439
+  },
+  {
+    "chapter": 29,
+    "front": "What are the three types of breakthrough cancer pain?",
+    "back": "Incident pain, predictable and movement-provoked; spontaneous pain, unpredictable; and end-of-dose failure, indicating the background regimen is inadequate.",
+    "id": 440
+  },
+  {
+    "chapter": 29,
+    "front": "How is each breakthrough type best managed?",
+    "back": "Incident pain by pre-emptive timed dosing, spontaneous pain by rapid-onset transmucosal agents, and end-of-dose failure by adjusting the background dose.",
+    "id": 441
+  },
+  {
+    "chapter": 29,
+    "front": "What is total pain?",
+    "back": "Cicely Saunders' concept that suffering in advanced illness has physical, psychological, social, and spiritual components, so unresponsive pain may not need more opioid.",
+    "id": 442
+  },
+  {
+    "chapter": 29,
+    "front": "Which step of the analgesic ladder has been most questioned?",
+    "back": "The second step, since low-dose strong opioids give faster and better relief than weak opioids with no increase in harm.",
+    "id": 443
+  },
+  {
+    "chapter": 29,
+    "front": "What breakthrough dose is conventionally used?",
+    "back": "Ten to 15 percent of the total daily dose, available at appropriate intervals as required.",
+    "id": 444
+  },
+  {
+    "chapter": 29,
+    "front": "Which route is the workhorse in palliative care?",
+    "back": "Subcutaneous, by intermittent injection or continuous infusion, preferred to the painful intramuscular route.",
+    "id": 445
+  },
+  {
+    "chapter": 29,
+    "front": "How does metastatic spinal cord compression present?",
+    "back": "New or worsening back pain in known cancer, band-like radicular pain, pain worse lying flat, and leg weakness, sensory level, or bladder change.",
+    "id": 446
+  },
+  {
+    "chapter": 29,
+    "front": "How is metastatic spinal cord compression managed?",
+    "back": "Immediate high-dose dexamethasone and urgent magnetic resonance imaging of the whole spine, then surgical decompression or radiotherapy.",
+    "id": 447
+  },
+  {
+    "chapter": 29,
+    "front": "What does a single 8 gray radiotherapy fraction achieve?",
+    "back": "Meaningful relief in a majority with painful bone metastases, beginning within two weeks, equivalent to multi-fraction regimens and far more convenient.",
+    "id": 448
+  },
+  {
+    "chapter": 29,
+    "front": "Which corticosteroid indications are established in cancer pain?",
+    "back": "Nerve compression, raised intracranial pressure, cord compression, hepatic capsular distension, and bowel obstruction, with appetite and mood benefits.",
+    "id": 449
+  },
+  {
+    "chapter": 29,
+    "front": "Which complication requires dental assessment before bisphosphonates?",
+    "back": "Osteonecrosis of the jaw.",
+    "id": 450
+  },
+  {
+    "chapter": 29,
+    "front": "How is breathlessness managed at the end of life?",
+    "back": "Low-dose opioids, a fan directed at the face, positioning, and treatment of reversible causes. Oxygen benefits hypoxemic patients.",
+    "id": 451
+  },
+  {
+    "chapter": 29,
+    "front": "What is anticipatory prescribing?",
+    "back": "Prescribing subcutaneous medications in advance for pain, breathlessness, nausea, agitation, and secretions in the dying phase, preventing delay and distress.",
+    "id": 452
+  },
+  {
+    "chapter": 29,
+    "front": "What did the early palliative care trial in lung cancer show?",
+    "back": "Better quality of life and mood, less aggressive end-of-life care, and longer survival despite less chemotherapy.",
+    "id": 453
+  },
+  {
+    "chapter": 30,
+    "front": "Why are newborns not less sensitive to pain?",
+    "back": "Excitatory nociceptive transmission is functional from the second trimester while descending inhibitory pathways mature after birth, tilting the balance toward excitation.",
+    "id": 454
+  },
+  {
+    "chapter": 30,
+    "front": "Which simple measures work for neonatal procedural pain?",
+    "back": "Oral sucrose 24 percent two minutes beforehand, non-nutritive sucking, breastfeeding, skin-to-skin care, facilitated tucking, and swaddling.",
+    "id": 455
+  },
+  {
+    "chapter": 30,
+    "front": "Why is topical anesthetic useless for heel lance?",
+    "back": "It requires 45 to 60 minutes under occlusion and does not penetrate adequately for heel lance, though it works for venepuncture and cannulation.",
+    "id": 456
+  },
+  {
+    "chapter": 30,
+    "front": "Why are NSAIDs avoided in neonates?",
+    "back": "Effects on the ductus arteriosus, renal function, and platelet function.",
+    "id": 457
+  },
+  {
+    "chapter": 30,
+    "front": "Which functional outcome matters most in pediatric chronic pain?",
+    "back": "School attendance, since prolonged absence compounds disability and social isolation, making return-to-school planning a clinical intervention.",
+    "id": 458
+  },
+  {
+    "chapter": 30,
+    "front": "Which parental factors predict child pain disability?",
+    "back": "Parental catastrophizing, anxiety, and protective responses reinforcing avoidance. All are modifiable.",
+    "id": 459
+  },
+  {
+    "chapter": 30,
+    "front": "How does pediatric complex regional pain syndrome differ from adult?",
+    "back": "Female and lower-limb predominance, a better prognosis, and an excellent response to intensive physiotherapy.",
+    "id": 460
+  },
+  {
+    "chapter": 30,
+    "front": "Which bias affects sickle cell crisis management?",
+    "back": "Patients are frequently and wrongly suspected of drug-seeking, with racial bias documented in multiple studies.",
+    "id": 461
+  },
+  {
+    "chapter": 30,
+    "front": "Why is creatinine unreliable in older adults?",
+    "back": "Muscle mass has fallen alongside filtration, so a normal creatinine can conceal substantially reduced clearance. Use estimated clearance instead.",
+    "id": 462
+  },
+  {
+    "chapter": 30,
+    "front": "What starting dose suits an older adult?",
+    "back": "Twenty-five to 50 percent of the usual adult dose, titrated slowly, changing one drug at a time, with the whole medication list reviewed each visit.",
+    "id": 463
+  },
+  {
+    "chapter": 30,
+    "front": "What should new agitation in dementia prompt?",
+    "back": "Consideration of pain, with an analgesic trial as a legitimate diagnostic step, since these patients receive substantially less analgesia.",
+    "id": 464
+  },
+  {
+    "chapter": 30,
+    "front": "When are NSAIDs avoided and contraindicated in pregnancy?",
+    "back": "Avoided from 20 weeks because of oligohydramnios and fetal renal effects, contraindicated from 30 weeks because of premature ductal closure.",
+    "id": 465
+  },
+  {
+    "chapter": 30,
+    "front": "How is opioid use disorder managed in pregnancy?",
+    "back": "Maintenance on buprenorphine or methadone, since maintenance produces better outcomes for mother and infant than withdrawal.",
+    "id": 466
+  },
+  {
+    "chapter": 30,
+    "front": "Why is codeine contraindicated in breastfeeding?",
+    "back": "Ultrarapid CYP2D6 metabolism can produce high infant morphine exposure, and a documented infant death led to the restriction.",
+    "id": 467
+  },
+  {
+    "chapter": 30,
+    "front": "What is relative infant dose?",
+    "back": "Infant exposure through milk expressed as a percentage of the maternal weight-adjusted dose, with values under 10 percent generally acceptable.",
+    "id": 468
+  },
+  {
+    "chapter": 30,
+    "front": "Which anticonvulsant is absolutely contraindicated in pregnancy?",
+    "back": "Valproate, because of teratogenicity and neurodevelopmental effects. Topiramate is also teratogenic.",
+    "id": 469
+  },
+  {
+    "chapter": 31,
+    "front": "How should psychological treatment be framed to patients?",
+    "back": "As targeting the nervous system, since attention, expectation, mood, sleep, and behavior influence pain physically, rather than as targeting the mind.",
+    "id": 470
+  },
+  {
+    "chapter": 31,
+    "front": "What does activity pacing replace?",
+    "back": "Pain-contingent activity, replaced by quota-based activity done regardless of how the patient feels, interrupting the boom-and-bust cycle.",
+    "id": 471
+  },
+  {
+    "chapter": 31,
+    "front": "Name the components of cognitive behavioral therapy for pain.",
+    "back": "Education, cognitive restructuring, behavioral activation and pacing, relaxation, problem solving, sleep hygiene, and relapse prevention.",
+    "id": 472
+  },
+  {
+    "chapter": 31,
+    "front": "What does acceptance and commitment therapy change?",
+    "back": "The patient's relationship with pain-related thoughts rather than the thoughts themselves, reorienting from pain reduction toward a valued life alongside pain.",
+    "id": 473
+  },
+  {
+    "chapter": 31,
+    "front": "What are the core messages of pain neuroscience education?",
+    "back": "Pain is produced by the nervous system, does not equal tissue damage, can be sensitized and desensitized, and movement is safe.",
+    "id": 474
+  },
+  {
+    "chapter": 31,
+    "front": "How does graded exposure differ from graded activity?",
+    "back": "It targets specific feared movements in a hierarchy from least to most feared, explicitly to disconfirm the expectation of harm.",
+    "id": 475
+  },
+  {
+    "chapter": 31,
+    "front": "Which exercise mechanisms produce analgesia?",
+    "back": "Endogenous opioid and endocannabinoid hypoalgesia, improved descending inhibition, reduced inflammation, better sleep and mood, and demonstrating movement is safe.",
+    "id": 476
+  },
+  {
+    "chapter": 31,
+    "front": "Which delivery principles matter more than exercise choice?",
+    "back": "Start below current capacity, progress by planned quota rather than by feel, expect and normalize flare-ups, and address feared movements directly.",
+    "id": 477
+  },
+  {
+    "chapter": 31,
+    "front": "How do multidisciplinary and interdisciplinary care differ?",
+    "back": "Multidisciplinary means parallel treatment sometimes with contradictory messages. Interdisciplinary means shared assessment, shared goals, and coordinated messaging.",
+    "id": 478
+  },
+  {
+    "chapter": 31,
+    "front": "Which insomnia treatment outperforms hypnotics?",
+    "back": "Cognitive behavioral therapy for insomnia, in both effectiveness and durability, with sleep hygiene alone the weakest component.",
+    "id": 479
+  },
+  {
+    "chapter": 31,
+    "front": "Which words should be avoided when discussing imaging?",
+    "back": "Crumbling, degenerating, and worn out, along with wheelchair predictions, since patients remember such phrases verbatim for years.",
+    "id": 480
+  },
+  {
+    "chapter": 31,
+    "front": "What is injustice perception?",
+    "back": "The sense that the pain and its consequences are unfair and someone is to blame, predicting poor outcome particularly in compensable injury.",
+    "id": 481
+  },
+  {
+    "chapter": 31,
+    "front": "What can a clinician deliver in fifteen minutes with large effect?",
+    "back": "Explanation, validation, a concrete functional goal, a graded activity quota, sleep advice, and a warning about flare-ups.",
+    "id": 482
+  },
+  {
+    "chapter": 31,
+    "front": "Why does pain intensity change less than function in a program?",
+    "back": "Function, sleep, participation, and mood respond more to effective treatment, which must be explained or patients judge the program by the wrong measure.",
+    "id": 483
+  },
+  {
+    "chapter": 31,
+    "front": "What is the principal barrier to delivering this care?",
+    "back": "Resource rather than evidence, since programs are unevenly available and reimbursement often pays more for an injection than for structured rehabilitation.",
+    "id": 484
+  },
+  {
+    "chapter": 32,
+    "front": "Distinguish the four terms routinely conflated in opioid practice.",
+    "back": "Physical dependence is neuroadaptation; tolerance is reduced effect; addiction is compulsive use despite harm; diversion is transfer to another person.",
+    "id": 485
+  },
+  {
+    "chapter": 32,
+    "front": "Why do opioid use disorder criteria exclude tolerance and withdrawal?",
+    "back": "In supervised prescribing their inclusion would misclassify every patient on appropriate long-term opioid therapy.",
+    "id": 486
+  },
+  {
+    "chapter": 32,
+    "front": "What is the purpose of risk assessment before opioid therapy?",
+    "back": "To match monitoring intensity to assessed risk, not to decide who deserves treatment. No tool is accurate enough to act as a gate.",
+    "id": 487
+  },
+  {
+    "chapter": 32,
+    "front": "How should urine drug test results be interpreted?",
+    "back": "Immunoassays miss many opioids and produce false positives, so confirmatory chromatography and mass spectrometry are needed for any result changing management.",
+    "id": 488
+  },
+  {
+    "chapter": 32,
+    "front": "Why does a negative test for the prescribed drug matter?",
+    "back": "It is as significant as a positive test for something else, since it suggests diversion.",
+    "id": 489
+  },
+  {
+    "chapter": 32,
+    "front": "What mortality benefit does opioid agonist treatment provide?",
+    "back": "Roughly halved mortality in cohort studies, which is why buprenorphine or methadone should be offered rather than withheld.",
+    "id": 490
+  },
+  {
+    "chapter": 32,
+    "front": "How is acute pain managed in a patient on maintenance treatment?",
+    "back": "Continue the maintenance, add full agonist expecting higher requirements, use regional and multimodal techniques aggressively, and involve the addiction provider.",
+    "id": 491
+  },
+  {
+    "chapter": 32,
+    "front": "Which aberrant behaviors warrant a change in the treatment plan?",
+    "back": "Obtaining opioids elsewhere, injecting oral formulations, repeated unauthorized escalation, concurrent illicit drug use, and prescription forgery.",
+    "id": 492
+  },
+  {
+    "chapter": 32,
+    "front": "What did the 2022 CDC guidance revision change?",
+    "back": "It removed hard dose limits and emphasized individualized care, after documented harm from rigid threshold application and forced tapering.",
+    "id": 493
+  },
+  {
+    "chapter": 32,
+    "front": "What is patient abandonment?",
+    "back": "Discharging a patient on opioids without arranging continuing care, an ethical and sometimes legal problem and the most avoidable cause of harm here.",
+    "id": 494
+  },
+  {
+    "chapter": 32,
+    "front": "Which disparities in pain treatment are documented contemporarily?",
+    "back": "Racial and ethnic minority patients, women, patients with cognitive impairment, language barriers, and substance use histories all receive less analgesia.",
+    "id": 495
+  },
+  {
+    "chapter": 32,
+    "front": "Why does blinding difficulty matter in pain trials?",
+    "back": "Procedures need shams, drugs unblind through side effects, and paresthesia cannot be blinded, and inadequate blinding systematically overestimates effect.",
+    "id": 496
+  },
+  {
+    "chapter": 32,
+    "front": "Why report responder proportions rather than mean change?",
+    "back": "A small mean change can conceal a subgroup with large benefit or represent a trivial change spread across everyone.",
+    "id": 497
+  },
+  {
+    "chapter": 32,
+    "front": "What is an enrichment design?",
+    "back": "Only open-phase responders are randomized, producing larger apparent effects than would be seen in an unselected population.",
+    "id": 498
+  },
+  {
+    "chapter": 32,
+    "front": "Why has the placebo response complicated analgesic development?",
+    "back": "It has increased over recent decades, particularly in the United States, narrowing the measurable difference between drug and placebo.",
+    "id": 499
+  },
+  {
+    "chapter": 32,
+    "front": "Why does chronic postsurgical pain persist as a system problem?",
+    "back": "No single service owns it: the surgeon discharges, acute pain stops at the ward door, and chronic pain sees the patient a year later.",
+    "id": 500
+  }
+]
